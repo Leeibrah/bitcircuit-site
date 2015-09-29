@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD:index.php
 <?php
 require_once('header.php');
 ?>
@@ -9,6 +10,223 @@ require_once('header.php');
 //Menu
 require_once('menu.php');
 ?>
+=======
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <!-- PAGE TITLE -->
+    <title>BitCircuit Technologies :: Home</title>
+
+    <!-- FAVICON AND APPLE TOUCHSCREEN ICONS -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="http://themebeer.com/html/do/images/apple-touch-icon.png">
+
+    <!-- ******************************
+            STYLESHEETS
+    *********************************** -->
+
+    <!-- DEFAULT AND BOOTSTRAP STYLESHEET -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+
+
+    <link rel="stylesheet" href="themify-icons.css">
+
+    <!-- FONTS -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- FONT ICONS -->
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/simple-line-icons.css" />
+    <link rel="stylesheet" href="css/pe-icon-7-stroke.css" />
+    <link rel="stylesheet" href="css/themify-icons.css" />
+
+    <!-- PLUGINS DEFAULT STYSHEETS-->
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/slider-pro.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.css">
+    <link rel="stylesheet" href="css/owl.transitions.css">    
+    <link rel="stylesheet" href="css/jquery.mmenu.all.css">
+    <link rel="stylesheet" href="css/animate.min.css">  
+      
+    
+    <!-- MAIN STYLESHEETS -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css" />
+
+    <!-- MODERNIZER -->
+    <script src="js/modernizr-2.8.3.min.js"></script>
+
+			
+	<!--[if lt IE 9]>
+        <script src="js/html5shiv.min.js"></script>
+        <script src="js/respond.min.js"></script>
+        <script src="js/selectivizr-min.js"></script>
+        <script src="js/nwmatcher.js"></script>
+        <script src="js/IE9.js"></script>		
+	<![endif]-->
+</head>
+
+<body class="do-homepage-one">
+    <!-- PRELOADER -->
+    <div class="preloader">
+        <div class="do-loader">&nbsp;</div>
+    </div>
+    <!-- START THE MAIN CONTENT HERE -->
+
+    <!--================================
+                SIDE MENU
+    =================================-->
+    <!-- PAGE OVERLAY WHEN MENU ACTIVE -->
+    <div class="do-side-menu-overlay"></div>
+    <!-- PAGE OVERLAY WHEN MENU ACTIVE END -->
+
+    <div class="do-side-menu-wrap">
+        <!-- OVERLAY -->
+        <div class="do-dark-overlay"></div>
+        <!-- OVERLAY END -->
+
+        <nav class="do-side-menu">
+            <div class="do-side-menu-widget-wrap">
+                <!-- LOGO -->
+                <div class="do-side-menu-logo-wrap">
+                    <a href="index.html">
+                        <img src="images/side-menu-logo.png" alt="DO">
+                    </a>
+                </div>
+                <!-- LOGO -->
+
+                <!-- MENU -->
+                <div class="do-side-menu-menu-wrap">
+                    <ul>
+                        <li>
+                            <a href="">About</a>
+                        </li>
+                        <li>
+                            <a href="">Solutions</a>
+                        </li>
+
+                        <li>
+                            <a href="">Team</a>
+                        </li>
+                        <li>
+                            <a href="">Contact</a>
+                        </li>
+            
+                    </ul>
+                </div>
+                <!-- MENU END -->
+
+                <!-- SOCIAL ICONS -->
+                <div class="do-side-menu-social-icon">
+                    <ul>
+                        <li>
+                            <a href="index.html#">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="index.html#">
+                                <i class="fa fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="index.html#">
+                                <i class="fa fa-behance"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="index.html#">
+                                <i class="fa fa-dribbble"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="index.html#">
+                                <i class="ti-vimeo-alt"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- SOCIAL ICONS END -->
+            </div>
+        </nav>
+
+        <button class="do-side-menu-close-button" id="do-side-menu-close-button">Close Menu</button>
+    </div>
+    <!-- SIDE MENU END -->
+
+    <!--================================
+        HEADER
+    =================================-->
+    <header>
+        <!-- Navigation Menu start-->
+        <nav class="navbar do-main-menu" role="navigation">
+            <div class="container">
+
+                <!-- Navbar Toggle -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    <!-- Logo -->
+                    <a class="navbar-brand" href="/"><img class="logo" src="images/logo.png" alt="DO"></a>
+
+                </div>
+                <!-- Navbar Toggle End -->
+
+                <!-- navbar-collapse start-->
+                <div id="nav-menu" class="navbar-collapse do-menu-wrapper collapse" role="navigation">
+                    
+                    <ul class="nav navbar-nav do-menus">
+
+                        <li class="active">
+                            <a href="Home"></a>
+                        </li>
+
+                        <li>
+                            <a href="About Us"</a>
+                        </li>
+
+                        <li>
+                            <a href="Solutions"></a>
+                        </li>
+
+                        <li>
+                            <a href="Team"></a>
+                        </li>
+
+                        <li>
+                            <a href="Contact"></a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- navbar-collapse end-->
+
+                <!-- SIDE MENU BTN -->
+                <div class="do-side-menu-opener">
+                    <button class="do-side-menu-button" id="do-side-menu-open-button"></button>
+                </div>
+                <!-- SIDE MENU BTN END -->
+
+            </div>
+        </nav>
+        <!-- Navigation Menu end-->
+    </header>
+    <!-- HEADER END -->
+
+    <!-- **************************************
+                    Main Slider
+    *************************************** -->
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
     <section class="do-main-slider">
         
         <div class="slider-pro do-homeone-slider" id="do-homeone-slider">
@@ -55,7 +273,11 @@ require_once('menu.php');
                     </div>
 
                     <div class="sp-layer do-slider-img do-arrow-img" data-position="bottomCenter" data-vertical="150" data-show-delay="5500" data-hide-delay="200" data-show-transition="up" data-hide-transition="down" data-width="36">
+<<<<<<< HEAD:index.php
                         <a data-scroll href="index.php#do-sevice-section">
+=======
+                        <a data-scroll href="do-sevice-section">
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                             <img src="images/slider_image/arrow.png" alt="">
                         </a>
                     </div>
@@ -186,7 +408,7 @@ require_once('menu.php');
                     <div class="do-service-container-inner">
                         <div class="do-front-part">
                             <div class="do-front-content">
-                                <i class="pe-7s-paper-plane"></i>
+                                <i class="fa fa-users"></i>
                                 <h3>PARTNERS</h3>
                             </div>
                         </div>
@@ -214,7 +436,7 @@ require_once('menu.php');
 
                 <!-- SECTION HEADING -->
                 <div class="do-section-heading">
-                    <h1>about us</h1>
+                    <h1>Welcome</h1>
                     <p class="do-section-subheading">creative &amp; expert</p>
                 </div>
                 <!-- SECTION HEADING END -->
@@ -223,7 +445,11 @@ require_once('menu.php');
                 <div class="do-custom-section-content col-md-10 col-sm-10 col-xs-12 col-md-offset-1 col-sm-offset-1">
                     <p>Dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves</p>
 
+<<<<<<< HEAD:index.php
                     <a href="index.php#" class="do-btn-round-outline">more</a>
+=======
+                    <a href="" class="do-btn-round-outline">more</a>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                 </div>
                 <!-- CUSTOM SECTION CONTENT END -->
 
@@ -272,7 +498,11 @@ require_once('menu.php');
                         <i class="icon-microphone"></i>
                     </div>
 
+<<<<<<< HEAD:index.php
                     <h3><a href="index.php#">sounds good</a></h3>
+=======
+                    <h3><a href="">sounds good</a></h3>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -283,7 +513,11 @@ require_once('menu.php');
                         <i class="ti-package"></i>
                     </div>
 
+<<<<<<< HEAD:index.php
                     <h3><a href="index.php#">BOX STYLE</a></h3>
+=======
+                    <h3><a href="">BOX STYLE</a></h3>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -294,7 +528,11 @@ require_once('menu.php');
                         <i class="pe-7s-gleam"></i>
                     </div>
 
+<<<<<<< HEAD:index.php
                     <h3><a href="index.php#">SHARING</a></h3>
+=======
+                    <h3><a href="">SHARING</a></h3>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -305,7 +543,11 @@ require_once('menu.php');
                         <i class="ti-infinite"></i>
                     </div>
 
+<<<<<<< HEAD:index.php
                     <h3><a href="index.php#">NICE LOOP</a></h3>
+=======
+                    <h3><a href="">NICE LOOP</a></h3>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -315,6 +557,7 @@ require_once('menu.php');
     <!-- FEATURE SECTION END -->
 
     <!--================================
+<<<<<<< HEAD:index.php
         COUNTER SECTION
     =================================-->
     <section class="do-counter-section" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="50">
@@ -788,6 +1031,8 @@ require_once('menu.php');
 
 
     <!--================================
+=======
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
         TESTIMONIAL SECTION
     =================================-->
     <section class="do-testimonial-section" data-stellar-background-ratio="0.5">
@@ -842,89 +1087,7 @@ require_once('menu.php');
     </section>
 
 
-    <!--================================
-        BLOG SECTION
-    =================================-->
-    <section class="do-blog-section do-section">
-        <div class="container">
-            <div class="row">
-                <!-- SECTION HEADING -->
-                <div class="do-section-heading">
-                    <h1>FROM BLOG</h1>
-                    <p class="do-section-subheading">BEST THEME FOR BUSINESS</p>
-                </div>
-                <!-- SECTION HEADING END -->
 
-
-                <!-- BLOG WRAPPER -->
-                <div class="do-blog-post-wrapper">
-
-                    <!-- BLOG ITEMS -->
-                    <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
-                        <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                            <div class="do-blog-img-wrapper">
-                                <img src="images/blog-mas-img-1.jpg" alt="ENDLESS ROAD STARTS">
-                                <div class="do-blog-post-date">
-                                    <p>12 <span>DEC</span></p>
-                                </div>
-                            </div>
-                            <div class="do-blo-title-excerpt">
-                                <h3>
-                                    <a href="blog_single.html">ENDLESS ROAD STARTS</a>
-                                </h3>
-                                <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- BLOG ITEMS END -->
-
-                    <!-- BLOG ITEMS -->
-                    <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
-                        <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                            <div class="do-blog-img-wrapper">
-                                <img src="images/blog-mas-img-2.jpg" alt="ENDLESS ROAD STARTS">
-                                <div class="do-blog-post-date">
-                                    <p>12 <span>DEC</span></p>
-                                </div>
-                            </div>
-                            <div class="do-blo-title-excerpt">
-                                <h3>
-                                    <a href="blog_single.html">ENDLESS ROAD STARTS</a>
-                                </h3>
-                                <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- BLOG ITEMS END -->
-
-                    <!-- BLOG ITEMS -->
-                    <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
-                        <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
-                            <div class="do-blog-img-wrapper">
-                                <img src="images/blog-mas-img-3.jpg" alt="ENDLESS ROAD STARTS">
-                                <div class="do-blog-post-date">
-                                    <p>12 <span>DEC</span></p>
-                                </div>
-                            </div>
-                            <div class="do-blo-title-excerpt">
-                                <h3>
-                                    <a href="blog_single.html">ENDLESS ROAD STARTS</a>
-                                </h3>
-                                <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- BLOG ITEMS END -->
-                </div>
-                <!-- BLOG WRAPPER END -->
-
-                <div class="do-more-blog-post-btn">
-                    <a href="blog_masonry.html" class="do-btn-round-outline">MORE</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- BLOG SECTION END -->
 
 
     <!--================================
@@ -946,7 +1109,11 @@ require_once('menu.php');
                         <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
                     </ul>
 
+<<<<<<< HEAD:index.php
                     <a href="index.php#" class="do-btn-round-solid">MORE</a>
+=======
+                    <a href="" class="do-btn-round-solid">MORE</a>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                 </div>
             </div>
         </div>
@@ -971,9 +1138,13 @@ require_once('menu.php');
         <div class="do-custom-video-content-wrapper">
             <div class="container">
                 <div class="row">
-                    <h3>GET THE TEMPLATE</h3>
+                    <h3>Welcome All</h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens beguiled</p>
+<<<<<<< HEAD:index.php
                     <a href="index.php#" class="do-btn-round-outline">PURCHASE</a>
+=======
+                    <a href="" class="do-btn-round-outline">PURCHASE</a>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                 </div>
             </div>
         </div>
@@ -986,37 +1157,57 @@ require_once('menu.php');
     <section class="do-social-link-section">
         <div class="container">
             <div class="row">
+<<<<<<< HEAD:index.php
                 <a href="index.php#" class="do-facebook">
+=======
+                <a href="" class="do-facebook">
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <span>
-                        <i class="ti-facebook"></i>
+                        <i class="fa fa-facebook"></i>
                     </span>
                     FACEBOOK
                 </a>
             
+<<<<<<< HEAD:index.php
                 <a href="index.php#" class="do-twitter">
+=======
+                <a href="" class="do-twitter">
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <span>
-                        <i class="ti-twitter-alt"></i>
+                        <i class="fa fa-twitter"></i>
                     </span>
                     TWITTER
                 </a>
             
+<<<<<<< HEAD:index.php
                 <a href="index.php#" class="do-vimeo">
+=======
+                <a href="" class="do-vimeo">
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <span>
-                        <i class="ti-vimeo-alt"></i>
+                        <i class="fa fa-vimeo-square"></i>
                     </span>
                     vImeo
                 </a>
             
+<<<<<<< HEAD:index.php
                 <a href="index.php#" class="do-dribbble">
+=======
+                <a href="" class="do-dribbble">
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <span>
-                        <i class="ti-dribbble"></i>
+                        <i class="fa fa-dribbble"></i>
                     </span>
-                    drIbble
+                    dribble
                 </a>
             
+<<<<<<< HEAD:index.php
                 <a href="index.php#" class="do-behance">
+=======
+                <a href="" class="do-behance">
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <span>
-                        <i class="fa fa-behance"></i>
+                        <i class="fa fa-youtube"></i>
                     </span>
                     behance
                 </a>
@@ -1036,7 +1227,11 @@ require_once('menu.php');
                     <!-- About Widget -->
                     <div class="do-footer-widget do-footer-about-widget col-md-3 col-sm-6 col-xs-12">
                         <div class="do-footer-logo-wrapper">
+<<<<<<< HEAD:index.php
                             <a href="index.php#">
+=======
+                            <a href="">
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                                 <img src="images/logo-footer.png" alt="">
                             </a>
                         </div>
@@ -1045,15 +1240,15 @@ require_once('menu.php');
                             <ul>
                                 <li>
                                     <i class="fa fa-map-marker"></i>
-                                    10/45 Beer Street Heaven, California Floor, USA 1208
+                                    Mlab East Africa, Bishop Magua, Ngong Rd, Nairobi, Kenya
                                 </li>
                                 <li>
                                     <i class="fa fa-phone"></i>
-                                    +1 [09] 45 069 007
+                                    +254 710 77 55 77
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope-o"></i>
-                                    mail@themebeer.com
+                                    contact@bitcircuit.co
                                 </li>
                             </ul>
                         </div>
@@ -1064,11 +1259,19 @@ require_once('menu.php');
                     <div class="do-footer-widget do-footer-link-widget col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">USEFUL LINKS</h3>
                         <ul>
+<<<<<<< HEAD:index.php
                             <li><a href="index.php#">Account Create</a></li>
                             <li><a href="index.php#">Company Philoshophy</a></li>
                             <li><a href="index.php#">Corporate Culture</a></li>
                             <li><a href="index.php#">Portfolio</a></li>
                             <li><a href="index.php#">Client Management</a></li>
+=======
+                            <li><a href="">Home</a></li>
+                            <li><a href="">About Us</a></li>
+                            <li><a href="">Solutions</a></li>
+                            <li><a href="">Team</a></li>
+                            <li><a href="">Contact</a></li>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                         </ul>
                     </div>
                     <!-- Link Widget End -->
@@ -1077,11 +1280,19 @@ require_once('menu.php');
                     <div class="do-footer-widget do-about-link-widget col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">ABOUT OFFICE</h3>
                         <ul>
+<<<<<<< HEAD:index.php
                             <li><a href="index.php#">About History</a></li>
                             <li><a href="index.php#">Company Philoshophy</a></li>
                             <li><a href="index.php#">Corporate Profile</a></li>
                             <li><a href="index.php#">Our Team</a></li>
                             <li><a href="index.php#">Somewhere in</a></li>
+=======
+                            <li><a href="">About History</a></li>
+                            <li><a href="">Company Philoshophy</a></li>
+                            <li><a href="">Corporate Profile</a></li>
+                            <li><a href="">Our Team</a></li>
+                            <li><a href="">Somewhere in</a></li>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                         </ul>
                     </div>
                     <!-- About Link Widget End -->
@@ -1097,7 +1308,11 @@ require_once('menu.php');
 
                 <!-- FOOTER BOTTOM -->
                 <div class="do-footer-bottom">
+<<<<<<< HEAD:index.php
                     <a href="index.php#" class="do-footer-author-name">ThemebeER</a>
+=======
+                    <a href="/" class="do-footer-author-name">2015 &copy; BitCircuit</a>
+>>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                 </div>
                 <!-- FOOTER BOTTOM END -->
             </div>

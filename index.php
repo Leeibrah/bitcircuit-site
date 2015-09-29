@@ -1,224 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
-    <!-- PAGE TITLE -->
-    <title>DO</title>
-
-    <!-- FAVICON AND APPLE TOUCHSCREEN ICONS -->
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon" href="http://themebeer.com/html/do/images/apple-touch-icon.png">
-
-    <!-- ******************************
-            STYLESHEETS
-    *********************************** -->
-
-    <!-- DEFAULT AND BOOTSTRAP STYLESHEET -->
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-
-
-    <link rel="stylesheet" href="themify-icons.css">
-
-    <!-- FONTS -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
-
-    <!-- FONT ICONS -->
-    <link rel="stylesheet" href="css/font-awesome.min.css" />
-    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" />
-    <link rel="stylesheet" href="css/simple-line-icons.css" />
-    <link rel="stylesheet" href="css/pe-icon-7-stroke.css" />
-    <link rel="stylesheet" href="css/themify-icons.css" />
-
-    <!-- PLUGINS DEFAULT STYSHEETS-->
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/slider-pro.css">
-    <link rel="stylesheet" href="css/owl.carousel.css">
-    <link rel="stylesheet" href="css/owl.theme.css">
-    <link rel="stylesheet" href="css/owl.transitions.css">    
-    <link rel="stylesheet" href="css/jquery.mmenu.all.css">
-    <link rel="stylesheet" href="css/animate.min.css">  
-      
-    
-    <!-- MAIN STYLESHEETS -->
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/responsive.css" />
-
-    <!-- MODERNIZER -->
-    <script src="js/modernizr-2.8.3.min.js"></script>
-
-			
-	<!--[if lt IE 9]>
-        <script src="js/html5shiv.min.js"></script>
-        <script src="js/respond.min.js"></script>
-        <script src="js/selectivizr-min.js"></script>
-        <script src="js/nwmatcher.js"></script>
-        <script src="js/IE9.js"></script>		
-	<![endif]-->
-</head>
+<?php
+require_once('header.php');
+?>
 
 <body class="do-homepage-one">
-    <!-- PRELOADER -->
-    <div class="preloader">
-        <div class="do-loader">&nbsp;</div>
-    </div>
-    <!-- START THE MAIN CONTENT HERE -->
-
-    <!--================================
-                SIDE MENU
-    =================================-->
-    <!-- PAGE OVERLAY WHEN MENU ACTIVE -->
-    <div class="do-side-menu-overlay"></div>
-    <!-- PAGE OVERLAY WHEN MENU ACTIVE END -->
-
-    <div class="do-side-menu-wrap">
-        <!-- OVERLAY -->
-        <div class="do-dark-overlay"></div>
-        <!-- OVERLAY END -->
-
-        <nav class="do-side-menu">
-            <div class="do-side-menu-widget-wrap">
-                <!-- LOGO -->
-                <div class="do-side-menu-logo-wrap">
-                    <a href="index.html">
-                        <img src="images/side-menu-logo.png" alt="DO">
-                    </a>
-                </div>
-                <!-- LOGO -->
-
-                <!-- MENU -->
-                <div class="do-side-menu-menu-wrap">
-                    <ul>
-                        <li>
-                            <a href="index.html">Home</a>
-                        </li>
-
-                        <li>
-                            <a href="index.html">About Us</a>
-                        </li>
-
-                        <li>
-                            <a href="index.html">Solutions</a>
-                        </li>
-
-                        <li>
-                            <a href="index.html">Team</a>
-                        </li>
-
-                        <li>
-                            <a href="index.html">Contact</a>
-                        </li>
-                       
-                    </ul>
-                </div>
-                <!-- MENU END -->
-
-                <!-- SOCIAL ICONS -->
-                <div class="do-side-menu-social-icon">
-                    <ul>
-                        <li>
-                            <a href="index.html#">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="index.html#">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="index.html#">
-                                <i class="fa fa-behance"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="index.html#">
-                                <i class="fa fa-dribbble"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="index.html#">
-                                <i class="ti-vimeo-alt"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <!-- SOCIAL ICONS END -->
-            </div>
-        </nav>
-
-        <button class="do-side-menu-close-button" id="do-side-menu-close-button">Close Menu</button>
-    </div>
-    <!-- SIDE MENU END -->
-
-    <!--================================
-        HEADER
-    =================================-->
-    <header>
-        <!-- Navigation Menu start-->
-        <nav class="navbar do-main-menu" role="navigation">
-            <div class="container">
-
-                <!-- Navbar Toggle -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-
-                    <!-- Logo -->
-                    <a class="navbar-brand" href="index.html"><img class="logo" src="images/logo.png" alt="DO"></a>
-
-                </div>
-                <!-- Navbar Toggle End -->
-
-                <!-- navbar-collapse start-->
-                <div id="nav-menu" class="navbar-collapse do-menu-wrapper collapse" role="navigation">
-                    <ul class="nav navbar-nav do-menus">
-                        <li class="active">
-                            <a href="index.html">Home</a>
-                        </li>
-
-                        <li>
-                            <a href="index.html">About Us</a>
-                        </li>
-
-                        <li>
-                            <a href="index.html">Solutions</a>
-                        </li>
-
-                        <li>
-                            <a href="index.html">Team</a>
-                        </li>
-
-                        <li>
-                            <a href="index.html">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-                <!-- navbar-collapse end-->
-
-                <!-- SIDE MENU BTN -->
-                <div class="do-side-menu-opener">
-                    <button class="do-side-menu-button" id="do-side-menu-open-button"></button>
-                </div>
-                <!-- SIDE MENU BTN END -->
-
-            </div>
-        </nav>
-        <!-- Navigation Menu end-->
-    </header>
-    <!-- HEADER END -->
-
-    <!-- **************************************
-                    Main Slider
-    *************************************** -->
+<?php
+//Menu
+require_once('menu.php');
+?>
     <section class="do-main-slider">
         
         <div class="slider-pro do-homeone-slider" id="do-homeone-slider">
@@ -265,7 +55,7 @@
                     </div>
 
                     <div class="sp-layer do-slider-img do-arrow-img" data-position="bottomCenter" data-vertical="150" data-show-delay="5500" data-hide-delay="200" data-show-transition="up" data-hide-transition="down" data-width="36">
-                        <a data-scroll href="index.html#do-sevice-section">
+                        <a data-scroll href="index.php#do-sevice-section">
                             <img src="images/slider_image/arrow.png" alt="">
                         </a>
                     </div>
@@ -433,7 +223,7 @@
                 <div class="do-custom-section-content col-md-10 col-sm-10 col-xs-12 col-md-offset-1 col-sm-offset-1">
                     <p>Dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves</p>
 
-                    <a href="index.html#" class="do-btn-round-outline">more</a>
+                    <a href="index.php#" class="do-btn-round-outline">more</a>
                 </div>
                 <!-- CUSTOM SECTION CONTENT END -->
 
@@ -482,7 +272,7 @@
                         <i class="icon-microphone"></i>
                     </div>
 
-                    <h3><a href="index.html#">sounds good</a></h3>
+                    <h3><a href="index.php#">sounds good</a></h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -493,7 +283,7 @@
                         <i class="ti-package"></i>
                     </div>
 
-                    <h3><a href="index.html#">BOX STYLE</a></h3>
+                    <h3><a href="index.php#">BOX STYLE</a></h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -504,7 +294,7 @@
                         <i class="pe-7s-gleam"></i>
                     </div>
 
-                    <h3><a href="index.html#">SHARING</a></h3>
+                    <h3><a href="index.php#">SHARING</a></h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -515,7 +305,7 @@
                         <i class="ti-infinite"></i>
                     </div>
 
-                    <h3><a href="index.html#">NICE LOOP</a></h3>
+                    <h3><a href="index.php#">NICE LOOP</a></h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -804,33 +594,33 @@
                 		<img src="images/team-1.png" alt="Member 1">
                 		<div class="do-member-details">
                 			<h3>
-                				<a href="index.html#">Samuel Doe</a>
+                				<a href="index.php#">Samuel Doe</a>
                 			</h3>
                 			<p>CEO</p>
 
                             <ul>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-behance"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-dribbble"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="ti-vimeo-alt"></i>
                                     </a>
                                 </li>
@@ -842,33 +632,33 @@
                 		<img src="images/team-2.png" alt="Member 2">
                 		<div class="do-member-details">
                 			<h3>
-                				<a href="index.html#">John Doe</a>
+                				<a href="index.php#">John Doe</a>
                 			</h3>
                 			<p>Director</p>
 
                             <ul>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-behance"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-dribbble"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="ti-vimeo-alt"></i>
                                     </a>
                                 </li>
@@ -880,33 +670,33 @@
                 		<img src="images/team-3.png" alt="Member 3">
                 		<div class="do-member-details">
                 			<h3>
-                				<a href="index.html#">DAVE WHITE</a>
+                				<a href="index.php#">DAVE WHITE</a>
                 			</h3>
                 			<p>Manager</p>
 
                             <ul>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-behance"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-dribbble"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="ti-vimeo-alt"></i>
                                     </a>
                                 </li>
@@ -918,33 +708,33 @@
                 		<img src="images/team-4.png" alt="Member 4">
                 		<div class="do-member-details">
                 			<h3>
-                				<a href="index.html#">Jenny Doe</a>
+                				<a href="index.php#">Jenny Doe</a>
                 			</h3>
                 			<p>Designer</p>
 
                             <ul>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-behance"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-dribbble"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="ti-vimeo-alt"></i>
                                     </a>
                                 </li>
@@ -956,33 +746,33 @@
                 		<img src="images/team-5.png" alt="Member 5">
                 		<div class="do-member-details">
                 			<h3>
-                				<a href="index.html#">Sam Doe</a>
+                				<a href="index.php#">Sam Doe</a>
                 			</h3>
                 			<p>Developer</p>
 
                             <ul>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-behance"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="fa fa-dribbble"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="index.html#">
+                                    <a href="index.php#">
                                         <i class="ti-vimeo-alt"></i>
                                     </a>
                                 </li>
@@ -1156,7 +946,7 @@
                         <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
                     </ul>
 
-                    <a href="index.html#" class="do-btn-round-solid">MORE</a>
+                    <a href="index.php#" class="do-btn-round-solid">MORE</a>
                 </div>
             </div>
         </div>
@@ -1183,7 +973,7 @@
                 <div class="row">
                     <h3>GET THE TEMPLATE</h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens beguiled</p>
-                    <a href="index.html#" class="do-btn-round-outline">PURCHASE</a>
+                    <a href="index.php#" class="do-btn-round-outline">PURCHASE</a>
                 </div>
             </div>
         </div>
@@ -1196,35 +986,35 @@
     <section class="do-social-link-section">
         <div class="container">
             <div class="row">
-                <a href="index.html#" class="do-facebook">
+                <a href="index.php#" class="do-facebook">
                     <span>
                         <i class="ti-facebook"></i>
                     </span>
                     FACEBOOK
                 </a>
             
-                <a href="index.html#" class="do-twitter">
+                <a href="index.php#" class="do-twitter">
                     <span>
                         <i class="ti-twitter-alt"></i>
                     </span>
                     TWITTER
                 </a>
             
-                <a href="index.html#" class="do-vimeo">
+                <a href="index.php#" class="do-vimeo">
                     <span>
                         <i class="ti-vimeo-alt"></i>
                     </span>
                     vImeo
                 </a>
             
-                <a href="index.html#" class="do-dribbble">
+                <a href="index.php#" class="do-dribbble">
                     <span>
                         <i class="ti-dribbble"></i>
                     </span>
                     drIbble
                 </a>
             
-                <a href="index.html#" class="do-behance">
+                <a href="index.php#" class="do-behance">
                     <span>
                         <i class="fa fa-behance"></i>
                     </span>
@@ -1246,7 +1036,7 @@
                     <!-- About Widget -->
                     <div class="do-footer-widget do-footer-about-widget col-md-3 col-sm-6 col-xs-12">
                         <div class="do-footer-logo-wrapper">
-                            <a href="index.html#">
+                            <a href="index.php#">
                                 <img src="images/logo-footer.png" alt="">
                             </a>
                         </div>
@@ -1274,11 +1064,11 @@
                     <div class="do-footer-widget do-footer-link-widget col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">USEFUL LINKS</h3>
                         <ul>
-                            <li><a href="index.html#">Account Create</a></li>
-                            <li><a href="index.html#">Company Philoshophy</a></li>
-                            <li><a href="index.html#">Corporate Culture</a></li>
-                            <li><a href="index.html#">Portfolio</a></li>
-                            <li><a href="index.html#">Client Management</a></li>
+                            <li><a href="index.php#">Account Create</a></li>
+                            <li><a href="index.php#">Company Philoshophy</a></li>
+                            <li><a href="index.php#">Corporate Culture</a></li>
+                            <li><a href="index.php#">Portfolio</a></li>
+                            <li><a href="index.php#">Client Management</a></li>
                         </ul>
                     </div>
                     <!-- Link Widget End -->
@@ -1287,11 +1077,11 @@
                     <div class="do-footer-widget do-about-link-widget col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">ABOUT OFFICE</h3>
                         <ul>
-                            <li><a href="index.html#">About History</a></li>
-                            <li><a href="index.html#">Company Philoshophy</a></li>
-                            <li><a href="index.html#">Corporate Profile</a></li>
-                            <li><a href="index.html#">Our Team</a></li>
-                            <li><a href="index.html#">Somewhere in</a></li>
+                            <li><a href="index.php#">About History</a></li>
+                            <li><a href="index.php#">Company Philoshophy</a></li>
+                            <li><a href="index.php#">Corporate Profile</a></li>
+                            <li><a href="index.php#">Our Team</a></li>
+                            <li><a href="index.php#">Somewhere in</a></li>
                         </ul>
                     </div>
                     <!-- About Link Widget End -->
@@ -1307,7 +1097,7 @@
 
                 <!-- FOOTER BOTTOM -->
                 <div class="do-footer-bottom">
-                    <a href="index.html#" class="do-footer-author-name">ThemebeER</a>
+                    <a href="index.php#" class="do-footer-author-name">ThemebeER</a>
                 </div>
                 <!-- FOOTER BOTTOM END -->
             </div>

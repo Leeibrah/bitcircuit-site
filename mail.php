@@ -1,4 +1,18 @@
 <?php
+header('Content-type: application/json');
+//Get data posted from Contact us
+
+$response = $_POST;
+
+//Do what you need to do with the info. The following are some examples.
+//if ($return["favorite_beverage"] == ""){
+//  $return["favorite_beverage"] = "Coke";
+//}
+//$return["favorite_restaurant"] = "McDonald's";
+$response['Ok'];
+$response["json"] = json_encode($response);
+echo json_encode($response);
+
 
 $senderName='Sender Name';
 $senderEmail='magige@mephatech.com';

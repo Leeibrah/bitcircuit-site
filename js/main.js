@@ -624,8 +624,9 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 				'message'		: $('textarea[name=message]').val()
 			};
             var output = '';
+
             //Ajax post data to server
-            $.post('contact.php', post_data, function(response){
+            $.post('mail.php', post_data, function(response){
 				if(response.type == 'error'){ //load json data from server and output message
 					output = '<div class="error">'+response.text+'</div>';
 				}else{

@@ -1,8 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
 <title>BitCircuit : CONTACT</title>
 <?php
+
 require_once('header.php');
 ?>
 

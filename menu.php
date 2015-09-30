@@ -116,7 +116,7 @@
             <!-- navbar-collapse start-->
             <div id="nav-menu" class="navbar-collapse do-menu-wrapper collapse" role="navigation">
                 <ul class="nav navbar-nav do-menus">
-                    <li class="active">
+                    <li class="">
                         <a href="index.php">Home</a>
                     </li>
 

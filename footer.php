@@ -138,3 +138,11 @@
 
 <!-- CUSTOM SCRIPTS -->
 <script src="js/main.js"></script>
+
+<script>
+    $(".nav li").on("click", function() {
+        $(".nav li").removeClass("active");
+        $(this).addClass("active");
+    });
+
+</script>

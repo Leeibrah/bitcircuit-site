@@ -4,11 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- PAGE TITLE -->
-    <title>DO</title>
+    <title>BC</title>
 
     <!-- FAVICON AND APPLE TOUCHSCREEN ICONS -->
     <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon" href="http://themebeer.com/html/do/images/apple-touch-icon.png">
 
     <!-- ******************************
             STYLESHEETS
@@ -59,3 +58,5 @@
     <script src="js/IE9.js"></script>
     <![endif]-->
 </head>
+
+

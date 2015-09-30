@@ -56,11 +56,11 @@ require_once('menu.php');
                     </div>
 
                     <div class="sp-layer do-slider-img do-arrow-img" data-position="bottomCenter" data-vertical="150" data-show-delay="5500" data-hide-delay="200" data-show-transition="up" data-hide-transition="down" data-width="36">
-<<<<<<< HEAD:index.php
+
                         <a data-scroll href="index.php#do-sevice-section">
-=======
+
                         <a data-scroll href="do-sevice-section">
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                             <img src="images/slider_image/arrow.png" alt="">
                         </a>
                     </div>
@@ -122,9 +122,9 @@ require_once('menu.php');
     </section>
     <!-- do Main Slider End -->
 
-    <!--================================
+    <!--====
         SERVICES SECTION 
-    =================================-->
+    =====-->
     <section class="do-sevice-section" id="do-sevice-section">
         <div class="container">
             <div class="row">
@@ -210,9 +210,9 @@ require_once('menu.php');
     </section>
     <!-- SERVICES SECTION END -->
 
-    <!--================================
+    <!--====
         CUSTOM SECTION 
-    =================================-->
+    =====-->
     <section class="do-custom-section do-animated-img do-section">
         <div class="container">
             <div class="row">
@@ -228,11 +228,10 @@ require_once('menu.php');
                 <div class="do-custom-section-content col-md-10 col-sm-10 col-xs-12 col-md-offset-1 col-sm-offset-1">
                     <p>Dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves</p>
 
-<<<<<<< HEAD:index.php
+
                     <a href="index.php#" class="do-btn-round-outline">more</a>
-=======
+
                     <a href="" class="do-btn-round-outline">more</a>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                 </div>
                 <!-- CUSTOM SECTION CONTENT END -->
 
@@ -268,9 +267,9 @@ require_once('menu.php');
     </section>
     <!-- CUSTOM SECTION END -->
 
-    <!--================================
+    <!--====
         FEATURE SECTION 
-    =================================-->
+    =====-->
     <section class="do-feature-section">
         <div class="container">
             <div class="row">
@@ -281,11 +280,10 @@ require_once('menu.php');
                         <i class="icon-microphone"></i>
                     </div>
 
-<<<<<<< HEAD:index.php
+
                     <h3><a href="index.php#">sounds good</a></h3>
-=======
+
                     <h3><a href="">sounds good</a></h3>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -296,11 +294,10 @@ require_once('menu.php');
                         <i class="ti-package"></i>
                     </div>
 
-<<<<<<< HEAD:index.php
-                    <h3><a href="index.php#">BOX STYLE</a></h3>
-=======
+
+
                     <h3><a href="">BOX STYLE</a></h3>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -311,11 +308,11 @@ require_once('menu.php');
                         <i class="pe-7s-gleam"></i>
                     </div>
 
-<<<<<<< HEAD:index.php
+
                     <h3><a href="index.php#">SHARING</a></h3>
-=======
+
                     <h3><a href="">SHARING</a></h3>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -326,11 +323,11 @@ require_once('menu.php');
                         <i class="ti-infinite"></i>
                     </div>
 
-<<<<<<< HEAD:index.php
+
                     <h3><a href="index.php#">NICE LOOP</a></h3>
-=======
+
                     <h3><a href="">NICE LOOP</a></h3>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -339,10 +336,10 @@ require_once('menu.php');
     </section>
     <!-- FEATURE SECTION END -->
 
-    <!--================================
-<<<<<<< HEAD:index.php
+    <!--====
+
         COUNTER SECTION
-    =================================-->
+    =====-->
     <section class="do-counter-section" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="50">
         <div class="do-dark-overlay"></div>
         <div class="container">
@@ -379,9 +376,9 @@ require_once('menu.php');
     </section>
     <!-- COUNTER SECTION END -->
 
-    <!--================================
+    <!--====
         CUSTOM SECTION 3
-    =================================-->
+    =====-->
     <div class="do-custom-section-three">
         <div class="container">
             <div class="row">
@@ -449,9 +446,9 @@ require_once('menu.php');
         </div>
     </div>
 
-    <!--================================
+    <!--====
         PORTFOLIO SECTION 
-    =================================-->
+    =====-->
     <section class="do-portfolio-section do-section">
         <div class="container">
             <div class="row">
@@ -601,9 +598,9 @@ require_once('menu.php');
     </section>
     <!-- PORTFOLIO SECTION END -->
 
-    <!--================================
+    <!--====
         TEAM SECTION
-    =================================-->
+    =====-->
     <section class="do-team-section do-section">
         <div class="container">
             <div class="row">
@@ -813,11 +810,11 @@ require_once('menu.php');
     <!-- TEAM SECTION END -->
 
 
-    <!--================================
-=======
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+    <!--====
+
+
         TESTIMONIAL SECTION
-    =================================-->
+    =====-->
     <section class="do-testimonial-section" data-stellar-background-ratio="0.5">
         <div class="do-dark-overlay"></div>
         <div class="container">
@@ -873,9 +870,9 @@ require_once('menu.php');
 
 
 
-    <!--================================
+    <!--====
        CUSTOM SECTION  WITH IMAGE LEFT
-    =================================-->
+    =====-->
     <section class="do-custom-section-with-img">
         <div class="container">
             <div class="row">
@@ -892,20 +889,20 @@ require_once('menu.php');
                         <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
                     </ul>
 
-<<<<<<< HEAD:index.php
+
                     <a href="index.php#" class="do-btn-round-solid">MORE</a>
-=======
+
                     <a href="" class="do-btn-round-solid">MORE</a>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                 </div>
             </div>
         </div>
     </section>
 
 
-    <!--================================
+    <!--====
         VIDEO SECTION
-    =================================-->
+    =====-->
     <section class="do-custom-video-section do-video-section do-section">
         <!-- Background Video -->
         <div class="do-custom-bg-video-wrapper">
@@ -923,72 +920,72 @@ require_once('menu.php');
                 <div class="row">
                     <h3>Welcome All</h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens beguiled</p>
-<<<<<<< HEAD:index.php
+
                     <a href="index.php#" class="do-btn-round-outline">PURCHASE</a>
-=======
+
                     <a href="" class="do-btn-round-outline">PURCHASE</a>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                 </div>
             </div>
         </div>
     </section>
     <!-- VIDEO SECTION END-->
 
-    <!--================================
+    <!--====
         SOCIAL LINK SECTION
-    =================================-->
+    =====-->
     <section class="do-social-link-section">
         <div class="container">
             <div class="row">
-<<<<<<< HEAD:index.php
+
                 <a href="index.php#" class="do-facebook">
-=======
+
                 <a href="" class="do-facebook">
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                     <span>
                         <i class="fa fa-facebook"></i>
                     </span>
                     FACEBOOK
                 </a>
             
-<<<<<<< HEAD:index.php
+
                 <a href="index.php#" class="do-twitter">
-=======
+
                 <a href="" class="do-twitter">
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                     <span>
                         <i class="fa fa-twitter"></i>
                     </span>
                     TWITTER
                 </a>
             
-<<<<<<< HEAD:index.php
+
                 <a href="index.php#" class="do-vimeo">
-=======
+
                 <a href="" class="do-vimeo">
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                     <span>
                         <i class="fa fa-vimeo-square"></i>
                     </span>
                     vImeo
                 </a>
             
-<<<<<<< HEAD:index.php
+
                 <a href="index.php#" class="do-dribbble">
-=======
+
                 <a href="" class="do-dribbble">
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                     <span>
                         <i class="fa fa-dribbble"></i>
                     </span>
                     dribble
                 </a>
             
-<<<<<<< HEAD:index.php
+
                 <a href="index.php#" class="do-behance">
-=======
+
                 <a href="" class="do-behance">
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                     <span>
                         <i class="fa fa-youtube"></i>
                     </span>
@@ -999,9 +996,9 @@ require_once('menu.php');
     </section>
     <!-- SOCIAL LINK SECTION END-->
 
-    <!--================================
+    <!--====
         FOOTER SECTION
-    =================================-->
+    =====-->
     <footer class="do-footer">
         <div class="container">
             <div class="row">
@@ -1010,11 +1007,11 @@ require_once('menu.php');
                     <!-- About Widget -->
                     <div class="do-footer-widget do-footer-about-widget col-md-3 col-sm-6 col-xs-12">
                         <div class="do-footer-logo-wrapper">
-<<<<<<< HEAD:index.php
+
                             <a href="index.php#">
-=======
+
                             <a href="">
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                                 <img src="images/logo-footer.png" alt="">
                             </a>
                         </div>
@@ -1042,19 +1039,19 @@ require_once('menu.php');
                     <div class="do-footer-widget do-footer-link-widget col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">USEFUL LINKS</h3>
                         <ul>
-<<<<<<< HEAD:index.php
+
                             <li><a href="index.php#">Account Create</a></li>
                             <li><a href="index.php#">Company Philoshophy</a></li>
                             <li><a href="index.php#">Corporate Culture</a></li>
                             <li><a href="index.php#">Portfolio</a></li>
                             <li><a href="index.php#">Client Management</a></li>
-=======
+
                             <li><a href="">Home</a></li>
                             <li><a href="">About Us</a></li>
                             <li><a href="">Solutions</a></li>
                             <li><a href="">Team</a></li>
                             <li><a href="">Contact</a></li>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                         </ul>
                     </div>
                     <!-- Link Widget End -->
@@ -1063,19 +1060,19 @@ require_once('menu.php');
                     <div class="do-footer-widget do-about-link-widget col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">ABOUT OFFICE</h3>
                         <ul>
-<<<<<<< HEAD:index.php
+
                             <li><a href="index.php#">About History</a></li>
                             <li><a href="index.php#">Company Philoshophy</a></li>
                             <li><a href="index.php#">Corporate Profile</a></li>
                             <li><a href="index.php#">Our Team</a></li>
                             <li><a href="index.php#">Somewhere in</a></li>
-=======
+
                             <li><a href="">About History</a></li>
                             <li><a href="">Company Philoshophy</a></li>
                             <li><a href="">Corporate Profile</a></li>
                             <li><a href="">Our Team</a></li>
                             <li><a href="">Somewhere in</a></li>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                         </ul>
                     </div>
                     <!-- About Link Widget End -->
@@ -1091,11 +1088,11 @@ require_once('menu.php');
 
                 <!-- FOOTER BOTTOM -->
                 <div class="do-footer-bottom">
-<<<<<<< HEAD:index.php
+
                     <a href="index.php#" class="do-footer-author-name">ThemebeER</a>
-=======
+
                     <a href="/" class="do-footer-author-name">2015 &copy; BitCircuit</a>
->>>>>>> 1562355e347c75aded655336e646c03540876f62:index.html
+
                 </div>
                 <!-- FOOTER BOTTOM END -->
             </div>

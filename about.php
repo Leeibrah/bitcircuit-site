@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<title>BC : ABOUT</title>
+<title>BitCircuit : ABOUT</title>
 <?php
 require_once('header.php');
 ?>

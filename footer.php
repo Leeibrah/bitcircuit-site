@@ -47,8 +47,7 @@
     <div class="container">
         <div class="row">
             <!-- FOOTER TOP -->
-            <div class="do-footer-top">
-                <!-- About Widget -->
+            <!-- <div class="do-footer-top">
                 <div class="do-footer-widget do-footer-about-widget col-md-3 col-sm-6 col-xs-12">
                     <div class="do-footer-logo-wrapper">
                         <a href="">
@@ -73,22 +72,18 @@
                         </ul>
                     </div>
                 </div>
-                <!-- About Widget End -->
 
-                <!-- Link Widget -->
                 <div class="do-footer-widget do-footer-link-widget col-md-3 col-sm-6 col-xs-12">
-                    <h3 class="do-footer-widget-header">USEFUL LINKS</h3>
+                    <h3 class="do-footer-widget-header">LINKS</h3>
                     <ul>
                         <li><a href="">Home</a></li>
-                        <li><a href="">About Us</a></li>
+                        <li><a href="about">About Us</a></li>
                         <li><a href="">Solutions</a></li>
                         <li><a href="">Team</a></li>
                         <li><a href="">Contact</a></li>
                     </ul>
                 </div>
-                <!-- Link Widget End -->
 
-                <!-- About Link Widget -->
                 <div class="do-footer-widget do-about-link-widget col-md-3 col-sm-6 col-xs-12">
                     <h3 class="do-footer-widget-header">ABOUT OFFICE</h3>
                     <ul>
@@ -99,20 +94,17 @@
                         <li><a href="">Somewhere in</a></li>
                     </ul>
                 </div>
-                <!-- About Link Widget End -->
 
-                <!-- Flickr Widget -->
                 <div class="do-footer-widget do-flickr-widget col-md-3 col-sm-6 col-xs-12">
                     <h3 class="do-footer-widget-header">flickr photo</h3>
                     <div id="flickr-gallery"></div>
                 </div>
-                <!-- Flickr Widget End -->
-            </div>
+            </div> -->
             <!-- FOOTER TOP END -->
 
             <!-- FOOTER BOTTOM -->
             <div class="do-footer-bottom">
-                <a href="/" class="do-footer-author-name">2015 &copy; BitCircuit</a>
+                <a href="http://bitcircuit.co" class="do-footer-author-name"><?php echo date("Y") ?> &copy; BitCircuit</a>
             </div>
             <!-- FOOTER BOTTOM END -->
         </div>

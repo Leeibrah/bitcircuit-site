@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<title>BC : TEAM</title>
+<title>BitCircuit : TEAM</title>
 <?php
 require_once('header.php');
 ?>
@@ -46,199 +46,64 @@ require_once('menu.php');
                 </div>
                 <!-- SECTION HEADING END -->
 
-                <!-- Teams -->
-                <div class="do-team-members">
-                    <div class="do-team-member">
-                        <img src="images/team-1.png" alt="Member 1">
-                        <div class="do-member-details">
-                            <h3>
-                                <a href="about_us.html#">Samuel Doe</a>
-                            </h3>
-                            <p>CEO</p>
+                <!-- Teams -->                            
 
-                            <ul>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
+                <div class="do-blog-post-wrapper">
+
+                    <!-- BLOG ITEMS -->
+                    <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
+                        <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; -webkit-animation-duration: 1s; -webkit-animation-delay: 0.2s;">
+                            <div class="do-blog-img-wrapper">
+                                <img src="images/team-3.jpg" alt="ENDLESS ROAD STARTS">
+
+                            </div>
+                            <div class="do-blo-title-excerpt">
+                                <h3>
+                                    <a href="blog_single.html">LEE IBRAHIM</a>
+                                </h3>
+                                <!-- <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p> -->
+                            </div>
                         </div>
                     </div>
+                    <!-- BLOG ITEMS END -->
 
-                    <div class="do-team-member">
-                        <img src="images/team-2.png" alt="Member 2">
-                        <div class="do-member-details">
-                            <h3>
-                                <a href="about_us.html#">John Doe</a>
-                            </h3>
-                            <p>Director</p>
+                    <!-- BLOG ITEMS -->
+                    <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
+                        <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; -webkit-animation-duration: 1s; -webkit-animation-delay: 0.6s;">
+                            <div class="do-blog-img-wrapper">
+                                <img src="images/team-3.jpg" alt="ENDLESS ROAD STARTS">
 
-                            <ul>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
+                            </div>
+                            <div class="do-blo-title-excerpt">
+                                <h3>
+                                    <a href="blog_single.html">KAMUTO MUCHEMI</a>
+                                </h3>
+                                <!-- <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p> -->
+                            </div>
                         </div>
                     </div>
+                    <!-- BLOG ITEMS END -->
 
-                    <div class="do-team-member">
-                        <img src="images/team-3.png" alt="Member 3">
-                        <div class="do-member-details">
-                            <h3>
-                                <a href="about_us.html#">DAVE WHITE</a>
-                            </h3>
-                            <p>Manager</p>
+                    <!-- BLOG ITEMS -->
+                    <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
+                        <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; -webkit-animation-duration: 1s; -webkit-animation-delay: 1s;">
+                            <div class="do-blog-img-wrapper">
+                                <img src="images/team-3.jpg" alt="ENDLESS ROAD STARTS">
 
-                            <ul>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
+                            </div>
+                            <div class="do-blo-title-excerpt">
+                                <h3>
+                                    <a href="blog_single.html">MAGIGE DANIEL</a>
+                                </h3>
+                                <!-- <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p> -->
+                            </div>
                         </div>
                     </div>
-
-                    <div class="do-team-member">
-                        <img src="images/team-4.png" alt="Member 4">
-                        <div class="do-member-details">
-                            <h3>
-                                <a href="about_us.html#">Jenny Doe</a>
-                            </h3>
-                            <p>Designer</p>
-
-                            <ul>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="do-team-member">
-                        <img src="images/team-5.png" alt="Member 5">
-                        <div class="do-member-details">
-                            <h3>
-                                <a href="about_us.html#">Sam Doe</a>
-                            </h3>
-                            <p>Developer</p>
-
-                            <ul>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about_us.html#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    <!-- BLOG ITEMS END -->
                 </div>
+
                 <!-- Teams END -->
+
             </div>
         </div>
     </section>

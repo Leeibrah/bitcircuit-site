@@ -2773,6 +2773,7 @@ DROPDOWN MENU
     float: left;
     text-align: center;
     position: relative;
+    padding-bottom: 40px;
 }
 
 .do-team-section .do-team-members .do-team-member img{

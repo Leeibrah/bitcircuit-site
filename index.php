@@ -2,7 +2,7 @@
 <html lang="en">
 
 <!-- PAGE TITLE -->
-<title>BC : HOME</title>
+<title>BitCircuit :: HOME</title>
 <?php
 require_once('header.php');
 ?>
@@ -69,11 +69,11 @@ require_once('menu.php');
 
 
                     <h1 class="sp-layer do-slider-text-big"
-                     data-position="center" data-vertical="0" data-show-transition="left" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">WEB DESIGN</h1>
+                     data-position="center" data-vertical="0" data-show-transition="left" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">BIT CIRCUIT</h1>
 
                     <p class="sp-layer do-slider-text-small"
                      data-position="center" data-vertical="90" data-show-delay="1500" data-hide-delay="200" data-show-transition="down" data-hide-transition="down">
-                        BEST <span class="do-color-text">THEME</span> FOR BUSINESS 
+                        BEST <span class="do-color-text">PRODUCTS</span> FOR BUSINESS 
                     </p>
                 </div>
                 <!-- Slides End -->
@@ -110,7 +110,7 @@ require_once('menu.php');
                     </div>
 
                     <h1 class="sp-layer do-slider-text-big do-slider-2nd-text"
-                     data-position="topCenter" data-vertical="100" data-horizontal="0" data-show-transition="down" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">PIXEL PERFECT</h1>
+                     data-position="topCenter" data-vertical="100" data-horizontal="0" data-show-transition="down" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">CONSULTING</h1>
 
                     <p class="sp-layer do-slider-text-small"
                      data-position="topCenter" data-vertical="150" data-show-delay="1500" data-hide-delay="200" data-show-transition="down" data-hide-transition="down">
@@ -233,37 +233,9 @@ require_once('menu.php');
 
                     <a href="index.php#" class="do-btn-round-outline">more</a>
 
-                    <a href="" class="do-btn-round-outline">more</a>
                 </div>
                 <!-- CUSTOM SECTION CONTENT END -->
 
-                <!-- CUSTOM SECTION IMG -->
-                <div class="do-animated-img-wrapper col-md-12 col-sm-12 col-xs-12">
-                    <ul class="hidden-xs">
-                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay="100">
-                            <img src="images/face-1.png" alt="Custom Image">
-                        </li>
-
-                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                            <img src="images/face-2.png" alt="Custom Image">
-                        </li>
-                        
-                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay="1s">
-                            <img src="images/face-3.png" alt="Custom Image">
-                        </li>
-                        
-                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay="1.5s">
-                            <img src="images/face-4.png" alt="Custom Image">
-                        </li>
-                        
-                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay="2s">
-                            <img src="images/face-5.png" alt="Custom Image">
-                        </li>
-                    </ul>
-
-                    <img src="images/custom-img.png" alt="" class="visible-xs">
-                </div>
-                <!-- CUSTOM SECTION IMG END -->
             </div>
         </div>
     </section>
@@ -338,484 +310,9 @@ require_once('menu.php');
     </section>
     <!-- FEATURE SECTION END -->
 
-    <!--====
-
-        COUNTER SECTION
-    =====-->
-    <section class="do-counter-section" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="50">
-        <div class="do-dark-overlay"></div>
-        <div class="container">
-            <div class="row">
-                <!-- BLOG -->
-                <div class="do-counter-wrapper">
-                    <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
-                        <i class="pe-7s-graph3"></i>
-                        <h3 class="do-counter" data-from="0" data-to="136800">0</h3>
-                        <span>work</span>
-                    </div>
-
-                    <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
-                        <i class="pe-7s-bicycle"></i>
-                        <h3 class="do-counter" data-from="0" data-to="276500">0</h3>
-                        <span>sale</span>
-                    </div>
-
-                    <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
-                        <i class="pe-7s-coffee"></i>
-                        <h3 class="do-counter" data-from="0" data-to="148630">0</h3>
-                        <span>demo</span>
-                    </div>
-
-                    <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
-                        <i class="pe-7s-graph1"></i>
-                        <h3 class="do-counter" data-from="0" data-to="136800">0</h3>
-                        <span>client</span>
-                    </div>
-                </div>
-                <!-- BLOG END -->
-            </div>
-        </div>
-    </section>
-    <!-- COUNTER SECTION END -->
 
     <!--====
-        CUSTOM SECTION 3
-    =====-->
-    <div class="do-custom-section-three">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12 do-custom-sec3-col-1">
-                    <h3>facts WE HAVE</h3>
-                    <p>counter buti because those who do not know how an puIse pleasure rationally encounter consequences that are painci No one rejects, dislikes, or avoids pleasure itself, because is counter buti because those who do not know how an puIse Nor again is there anyone who loves or pursues and desirn <br>
-                    <br> 
-                    pleasure rationally encounter consequences that are painci counter buti because those who do not know how an puIse pleasure rationally encounter. Nor again is there anyone who loves or pursues and desirn</p>
-                </div>
-
-                <div class="col-md-4 col-sm-4 col-xs-12 col-xs-12 do-custom-sec3-col-2">
-                    <h3>KEY FEATURES</h3>
-                    <ul class="do-icon-list">
-                        <li><i class="fa fa-angle-right"></i> Pleasures rationally encounter consequences</li>
-                        <li><i class="fa fa-angle-right"></i> Sample analysis and  mobile networking system</li>
-                        <li><i class="fa fa-angle-right"></i> Business communication management</li>
-                        <li><i class="fa fa-angle-right"></i>Sample analysis and  mobile networking system</li>
-                        <li><i class="fa fa-angle-right"></i> Technical writing with perfect translation</li>
-                        <li><i class="fa fa-angle-right"></i> Web data structural development ready</li>
-                        <li><i class="fa fa-angle-right"></i> Business communication management</li>
-                    </ul>
-                </div>
-
-                <div class="col-md-4 col-sm-4 col-xs-12 col-xs-12 do-custom-sec3-col-3">
-                    <h3>PROGRESS BAR</h3>
-                    <div class="do-our-skill">
-                        <!-- Design Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="70">
-                            <p class="do-skillbar-title">Design<span class="skill-bar-percent"></span></p>
-                            <div class="do-skillbar-bar-wrapper">
-                                <div class="do-skillbar-bar"></div>
-                            </div>
-                        </div> 
-                        <!-- Design Skill Bar End -->
-
-                        <!-- Code Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="80">
-                            <p class="do-skillbar-title">code<span class="skill-bar-percent"></span></p>
-                            <div class="do-skillbar-bar-wrapper">
-                                <div class="do-skillbar-bar"></div>
-                            </div>
-                        </div>
-                        <!-- Code Skill Bar End -->
-
-                        <!-- Writing Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="80">
-                            <p class="do-skillbar-title">writing<span class="skill-bar-percent"></span></p>
-                            <div class="do-skillbar-bar-wrapper">
-                                <div class="do-skillbar-bar"></div>
-                            </div>
-                        </div>
-                        <!-- Writing Skill Bar End -->
-
-                        <!-- Photography Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="40">
-                            <p class="do-skillbar-title">photography<span class="skill-bar-percent"></span></p>
-                            <div class="do-skillbar-bar-wrapper">
-                                <div class="do-skillbar-bar"></div>
-                            </div>
-                        </div>
-                        <!-- Photography Skill Bar End -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!--====
-        PORTFOLIO SECTION 
-    =====-->
-    <section class="do-portfolio-section do-section">
-        <div class="container">
-            <div class="row">
-                <!-- SECTION HEADING -->
-                <div class="do-section-heading">
-                    <h1>WORK</h1>
-                    <p class="do-section-subheading">OUR CREATIVE GALLERY</p>
-                </div>
-                <!-- SECTION HEADING END -->
-
-                <!-- WORKS -->
-                <div class="do-portfolio-works do-portfolio-one-px">
-                    <div class="do-work-item">
-                        <div class="do-work-item-inner-wrap appear fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
-                            <img src="images/portfolio-image/work-1px-2.jpg" alt="">
-                            <div class="do-work-item-hover">
-                                <a href="portfolio-single-one.html" class="do-single-page-link"></a>
-                                <div class="do-work-item-details">
-                                    <h3 class="do-work-item-title">
-                                        <a href="portfolio-single-one.html">paper glass</a>
-                                    </h3>
-                                    <span class="do-work-item-subtitle">design</span>
-                                </div>
-                                <a href="images/portfolio-image/work-1px-2.jpg" class="do-work-item-popup"></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="do-work-item do-height-dbl">
-                        <div class="do-work-item-inner-wrap appear fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
-                            <img src="images/portfolio-image/woman-598313_1280.jpg" alt="">
-                            <div class="do-work-item-hover">
-                                <a href="portfolio-single-one.html" class="do-single-page-link"></a>
-                                <div class="do-work-item-details">
-                                    <h3 class="do-work-item-title">
-                                        <a href="portfolio-single-one.html">paper glass</a>
-                                    </h3>
-                                    <span class="do-work-item-subtitle">design</span>
-                                </div>
-                                <a href="images/portfolio-image/woman-598313_1280.jpg" class="do-work-item-popup"></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="do-work-item">
-                        <div class="do-work-item-inner-wrap appear fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
-                            <img src="images/portfolio-image/work-1px-5.jpg" alt="">
-                            <div class="do-work-item-hover">
-                                <a href="portfolio-single-one.html" class="do-single-page-link"></a>
-                                <div class="do-work-item-details">
-                                    <h3 class="do-work-item-title">
-                                        <a href="portfolio-single-one.html">paper glass</a>
-                                    </h3>
-                                    <span class="do-work-item-subtitle">design</span>
-                                </div>
-                                <a href="images/portfolio-image/work-1px-5.jpg" class="do-work-item-popup"></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="do-work-item">
-                        <div class="do-work-item-inner-wrap appear fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
-                            <img src="images/portfolio-image/work-1px-3.jpg" alt="">
-                            <div class="do-work-item-hover">
-                                <a href="portfolio-single-one.html" class="do-single-page-link"></a>
-                                <div class="do-work-item-details">
-                                    <h3 class="do-work-item-title">
-                                        <a href="portfolio-single-one.html">paper glass</a>
-                                    </h3>
-                                    <span class="do-work-item-subtitle">design</span>
-                                </div>
-                                <a href="images/portfolio-image/work-1px-3.jpg" class="do-work-item-popup"></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="do-work-item">
-                        <div class="do-work-item-inner-wrap appear fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
-                            <img src="images/portfolio-image/work-1px-4.jpg" alt="">
-                            <div class="do-work-item-hover">
-                                <a href="portfolio-single-one.html" class="do-single-page-link"></a>
-                                <div class="do-work-item-details">
-                                    <h3 class="do-work-item-title">
-                                        <a href="portfolio-single-one.html">paper glass</a>
-                                    </h3>
-                                    <span class="do-work-item-subtitle">design</span>
-                                </div>
-                                <a href="images/portfolio-image/work-1px-4.jpg" class="do-work-item-popup"></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="do-work-item">
-                        <div class="do-work-item-inner-wrap appear fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
-                            <img src="images/portfolio-image/work-1px-6.jpg" alt="">
-                            <div class="do-work-item-hover">
-                                <a href="portfolio-single-one.html" class="do-single-page-link"></a>
-                                <div class="do-work-item-details">
-                                    <h3 class="do-work-item-title">
-                                        <a href="portfolio-single-one.html">paper glass</a>
-                                    </h3>
-                                    <span class="do-work-item-subtitle">design</span>
-                                </div>
-                                <a href="images/portfolio-image/work-1px-6.jpg" class="do-work-item-popup"></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="do-work-item do-width-dbl appear fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
-                        <div class="do-work-item-inner-wrap">
-                            <img src="images/portfolio-image/4.jpg" alt="">
-                            <div class="do-work-item-hover">
-                                <a href="portfolio-single-one.html" class="do-single-page-link"></a>
-                                <div class="do-work-item-details">
-                                    <h3 class="do-work-item-title">
-                                        <a href="portfolio-single-one.html">paper glass</a>
-                                    </h3>
-                                    <span class="do-work-item-subtitle">design</span>
-                                </div>
-                                <a href="images/portfolio-image/4.jpg" class="do-work-item-popup"></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="do-work-item">
-                        <div class="do-work-item-inner-wrap appear fadeIn" data-wow-duration="1.5s" data-wow-delay=".3s">
-                            <img src="images/portfolio-image/work-1px-9.jpg" alt="">
-                            <div class="do-work-item-hover">
-                                <a href="portfolio-single-one.html" class="do-single-page-link"></a>
-                                <div class="do-work-item-details">
-                                    <h3 class="do-work-item-title">
-                                        <a href="portfolio-single-one.html">paper glass</a>
-                                    </h3>
-                                    <span class="do-work-item-subtitle">design</span>
-                                </div>
-                                <a href="images/portfolio-image/work-1px-9.jpg" class="do-work-item-popup"></a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-                <!-- WORKS END -->
-            </div>
-        </div>
-
-        <a href="portfolio-1px.html" class="do-btn-round-outline">MORE</a>
-    </section>
-    <!-- PORTFOLIO SECTION END -->
-
-    <!--====
-        TEAM SECTION
-    =====-->
-    <section class="do-team-section do-section">
-        <div class="container">
-            <div class="row">
-                <!-- SECTION HEADING -->
-                <div class="do-section-heading">
-                    <h1>our team</h1>
-                    <p class="do-section-subheading">AWESOME CREATIVE TEAM</p>
-                </div>
-                <!-- SECTION HEADING END -->
-
-                <!-- Teams -->
-                <div class="do-team-members">
-                	<div class="do-team-member">
-                		<img src="images/team-1.png" alt="Member 1">
-                		<div class="do-member-details">
-                			<h3>
-                				<a href="index.php#">Samuel Doe</a>
-                			</h3>
-                			<p>CEO</p>
-
-                            <ul>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                		</div>
-                	</div>
-
-                	<div class="do-team-member">
-                		<img src="images/team-2.png" alt="Member 2">
-                		<div class="do-member-details">
-                			<h3>
-                				<a href="index.php#">John Doe</a>
-                			</h3>
-                			<p>Director</p>
-
-                            <ul>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                		</div>
-                	</div>
-
-                	<div class="do-team-member">
-                		<img src="images/team-3.png" alt="Member 3">
-                		<div class="do-member-details">
-                			<h3>
-                				<a href="index.php#">DAVE WHITE</a>
-                			</h3>
-                			<p>Manager</p>
-
-                            <ul>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                		</div>
-                	</div>
-
-                	<div class="do-team-member">
-                		<img src="images/team-4.png" alt="Member 4">
-                		<div class="do-member-details">
-                			<h3>
-                				<a href="index.php#">Jenny Doe</a>
-                			</h3>
-                			<p>Designer</p>
-
-                            <ul>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                		</div>
-                	</div>
-
-                	<div class="do-team-member">
-                		<img src="images/team-5.png" alt="Member 5">
-                		<div class="do-member-details">
-                			<h3>
-                				<a href="index.php#">Sam Doe</a>
-                			</h3>
-                			<p>Developer</p>
-
-                            <ul>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-behance"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="fa fa-dribbble"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="index.php#">
-                                        <i class="ti-vimeo-alt"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                		</div>
-                	</div>
-                </div>
-                <!-- Teams END -->
-            </div>
-        </div>
-    </section>
-    <!-- TEAM SECTION END -->
-
-
-    <!--====
-
-
-        TESTIMONIAL SECTION
+    TESTIMONIAL SECTION
     =====-->
     <section class="do-testimonial-section" data-stellar-background-ratio="0.5">
         <div class="do-dark-overlay"></div>
@@ -833,44 +330,27 @@ require_once('menu.php');
 
                     <!-- Slides -->
                     <div class="do-testimonial-slides">
-                        <p>Like what you see? Buy this theme with the click of a button and let us know what you</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature-3.png" alt="">
+                        <p>They have one of the best products in the country in <a href="http://teamsync.co">TeamSync</a>. You should check it out.</p>
+                        <span>Kenneth Kamau</span>
                     </div>
                     <!-- Slides End -->
 
                     <!-- Slides -->
                     <div class="do-testimonial-slides">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature-2.png" alt="">
+                        <p>Did our website within no time and in a professional way.</p>
+                        <span>Peter Omolo</span>
                     </div>
                     <!-- Slides End -->
 
-                    <!-- Slides -->
-                    <div class="do-testimonial-slides">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature.png" alt="">
-                    </div>
-                    <!-- Slides End -->
-
-                    <!-- Slides -->
-                    <div class="do-testimonial-slides">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature-2.png" alt="">
-                    </div>
-                    <!-- Slides End -->
+                   
                 </div>
                 <!-- Testimonial Slider End -->
             </div>
         </div>
     </section>
-
-
-
-
+    <!--====
+    END TESTIMONIAL SECTION
+    =====-->
 
     <!--====
        CUSTOM SECTION  WITH IMAGE LEFT
@@ -894,44 +374,14 @@ require_once('menu.php');
 
                     <a href="index.php#" class="do-btn-round-solid">MORE</a>
 
-                    <a href="" class="do-btn-round-solid">MORE</a>
-
                 </div>
             </div>
         </div>
     </section>
-
-
     <!--====
-        VIDEO SECTION
+       END CUSTOM SECTION  WITH IMAGE LEFT
     =====-->
-    <section class="do-custom-video-section do-video-section do-section">
-        <!-- Background Video -->
-        <div class="do-custom-bg-video-wrapper">
-            <video autoplay loop poster="images/poster.jpg" id="bgvid">
-                <!-- <source src="video.webm" type="video/webm"> -->
-                <source src="video.mp4" type="video/mp4">
-            </video>
-        </div>
-        <!-- Background Video End -->
 
-        <div class="do-parallax-overlay"></div>
-
-        <div class="do-custom-video-content-wrapper">
-            <div class="container">
-                <div class="row">
-                    <h3>Welcome All</h3>
-                    <p>On the other hand, we denounce with right ous indignation and dislike mens beguiled</p>
-
-                    <a href="index.php#" class="do-btn-round-outline">PURCHASE</a>
-
-                    <a href="" class="do-btn-round-outline">PURCHASE</a>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- VIDEO SECTION END-->
 
 <?php
 require_once('footer.php');

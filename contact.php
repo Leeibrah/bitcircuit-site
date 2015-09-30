@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<title>BC : CONTACT</title>
+<title>BitCircuit : CONTACT</title>
 <?php
 require_once('header.php');
 ?>
@@ -46,11 +46,7 @@ require_once('menu.php');
     <section class="do-contact-page-wrapper">
     	<div class="container">
     		<div class="row">  
-                <!-- GOOGLE MAP -->
-                <div class="do-google-map">
-                    <div id="map"></div>
-                </div>
-                <!-- GOOGLE MAP END -->
+
 
                 <!-- CONTACT FORM AND ADDRESS -->
                 <div class="do-contact-form-address-wrapper">
@@ -63,7 +59,7 @@ require_once('menu.php');
                         <div id="contact-form" class="do-contact-form">
                             <input type="text" name="name" id="name" placeholder="Name" required>
                             <input type="email" name="email" id="email" placeholder="Email" required>
-                            <input type="text" name="web" id="web" placeholder="Web">
+                            <input type="text" name="subject" id="subject" placeholder="Subject">
 
                             <textarea name="message" id="message" cols="30" rows="10" class="do-input-message" placeholder="Comment" required></textarea>
 
@@ -75,34 +71,34 @@ require_once('menu.php');
                     <!-- ADDRESS -->
                     <div class="do-contact-add-wrapper">
                         <div class="do-contact-info">
-                            <h4>CONTACT INFO</h4>
-                            <p>Explain to you how all this mistaken idea of denouncing a teachings of the great explorer of the truth</p>
+                            <h4>CONTACT US</h4>
+                            <p>Contact us for any queries. </p>
                         </div>
 
                         <div class="do-contact-address">
                             <h4>CONTACT INFO</h4>
                             <ul>
-                                <li class="do-address">Road 34, House 55<br>
-                                Envato Park street, Canbera lane<br>Australia</li>
+                                <li class="do-address">3rd Floor,<br>
+                                Bishop Magua Centre,<br> Ngong Road,<br>Nairobi, Kenya</li>
 
-                                <li class="do-phone">[ 06 ] 862 015 091</li>
-                                <li class="do-email">mail@dave.com</li>
+                                <li class="do-phone">[ +254 ] 710 55 77 55</li>
+                                <li class="do-email">contact@teamsyn.co</li>
                             </ul>
 
                             <div class="do-coantact-social">
-                                <a href="contact_us.html#">
+                                <a href="">
                                     <i class="ti-facebook"></i>
                                 </a>
-                                <a href="contact_us.html#">
+                                <a href="">
                                     <i class="ti-twitter-alt"></i>
                                 </a>
-                                <a href="contact_us.html#">
+                                <a href="">
                                     <i class="ti-vimeo-alt"></i>
                                 </a>
-                                <a href="contact_us.html#">
+                                <a href="">
                                     <i class="ti-dribbble"></i>
                                 </a>
-                                <a href="contact_us.html#">
+                                <a href="">
                                     <i class="fa fa-behance"></i>
                                 </a>
                             </div>

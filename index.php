@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- PAGE TITLE -->
+<title>BC : HOME</title>
 <?php
 require_once('header.php');
 ?>

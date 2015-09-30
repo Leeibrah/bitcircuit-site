@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<title>BC : CONTACT</title>
 <?php
 require_once('header.php');
 ?>
@@ -26,7 +28,7 @@ require_once('menu.php');
 
                 	<div class="do-breadcumb">
                 		<ul>
-                			<li><a href="contact_us.html#">HOME</a></li>
+                			<li><a href="#">HOME</a></li>
                 			<li><span>CONTACT</span></li>
                 		</ul>
                 	</div>

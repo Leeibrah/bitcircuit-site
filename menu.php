@@ -34,19 +34,19 @@
                     </li>
 
                     <li>
-                        <a href="index.php">About Us</a>
+                        <a href="about.php">About Us</a>
                     </li>
 
                     <li>
-                        <a href="index.php">Solutions</a>
+                        <a href="solution.php">Solutions</a>
                     </li>
 
                     <li>
-                        <a href="index.php">Team</a>
+                        <a href="team.php">Team</a>
                     </li>
 
                     <li>
-                        <a href="index.php">Contact</a>
+                        <a href="contact.php">Contact</a>
                     </li>
 
                 </ul>
@@ -121,19 +121,19 @@
                     </li>
 
                     <li>
-                        <a href="index.php">About Us</a>
+                        <a href="about.php">About Us</a>
                     </li>
 
                     <li>
-                        <a href="index.php">Solutions</a>
+                        <a href="solution.php">Solutions</a>
                     </li>
 
                     <li>
-                        <a href="index.php">Team</a>
+                        <a href="team.php">Team</a>
                     </li>
 
                     <li>
-                        <a href="index.php">Contact</a>
+                        <a href="contact.php">Contact</a>
                     </li>
                 </ul>
             </div>

@@ -4754,7 +4754,7 @@ CONTACT FORM
     margin-right: 15px;
     margin-bottom: 15px;
     background-color: #f9f9f9;
-    border: 0px solid;
+    border: 1px solid;
     outline: 0;
 }
 
@@ -4769,7 +4769,7 @@ CONTACT FORM
     float: left;
     margin-bottom: 40px;
     background-color: #f9f9f9;
-    border: 0px solid;
+    border: 1px solid;
     outline: 0;
 }
 

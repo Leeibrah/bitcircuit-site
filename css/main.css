@@ -3210,15 +3210,6 @@ MORE BLOG POST BTN
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * *
                     COUNTER SECTION
 * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-.do-homepage-2nd .do-counter-section{
-    background: url(../images/custom-sec-bg-img-1.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-    position: relative;
-    -webkit-background-size: cover;
-            background-size: cover;
-}
 
 .do-homepage-2nd .do-counter-section .do-counter-items i{
     color: #ffffff;

@@ -11,7 +11,6 @@ header('Content-type: application/json');
 
 if ($_POST) {
 
-
     $replyToName = $_POST['name'];
     $replyToEmail = $_POST['email'];
 
@@ -23,11 +22,16 @@ if ($_POST) {
 //$senderName='Sender Name';
 //$senderName=data[''];
 $senderEmail='contact@teamsync.co';
+
+    //CC
+
+//$mail->addCC('magige@teamsync.co');
 //$replyToEmail='sasa@sasa.com';
 //$replyToName='New User';
 
 $receiverName='BitCircuit Team';
-$receiverEmail='magigedaniel@gmail.com';
+$receiverEmail='contact@teamsync.co';
+//$receiverEmail='magigedaniel@gmail.com';
 
 
 //$mailBody='Message body from a contact';
@@ -63,11 +67,15 @@ $mail->Body    = $mailBody;
 //$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
 if(!$mail->send()) {
+    $response['type']='error';
+    $response['text']='Failed in mail send';
+    // echo "failure";
+    echo json_encode($response);
     echo 'Message could not be sent.';
     echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
     $response['type']='success';
-    $response['text']='Thank you for your message will get back to you for more business detail!';
+    $response['text']='Thank you for your message will get back to you soon';
     //echo 'Message has been sent';
     echo json_encode($response);
 }
@@ -75,7 +83,7 @@ if(!$mail->send()) {
 }
 else {
     $response['type']='error';
-    $response['text']='Sorry,fill the right details and try again!';
+    $response['text']='Failed';
    // echo "failure";
     echo json_encode($response);
 }

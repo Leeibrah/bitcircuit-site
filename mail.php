@@ -67,7 +67,7 @@ if(!$mail->send()) {
     echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
     $response['type']='success';
-    $response['text']='Thank you for your message will get back to you!';
+    $response['text']='Thank you for your message will get back to you for more business detail!';
     //echo 'Message has been sent';
     echo json_encode($response);
 }
@@ -75,7 +75,7 @@ if(!$mail->send()) {
 }
 else {
     $response['type']='error';
-    $response['text']='Sorry,feel the right details and try again!';
+    $response['text']='Sorry,fill the right details and try again!';
    // echo "failure";
     echo json_encode($response);
 }

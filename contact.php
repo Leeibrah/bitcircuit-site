@@ -54,7 +54,7 @@ require_once('menu.php');
                 <div class="do-contact-form-address-wrapper">
                     <!-- CONTACT FORM -->
                     <div class="do-contact-form-wrapper">
-                        <h3>SEND YOUR MESSAGE</h3>
+                        <h3>TALK TO US DIRECT</h3>
 
                         <div id="contact-result"></div>
 
@@ -63,7 +63,7 @@ require_once('menu.php');
                             <input type="email" name="email" id="email" placeholder="Email" required>
                             <input type="text" name="subject" id="subject" placeholder="Subject">
 
-                            <textarea name="message" id="message" cols="30" rows="10" class="do-input-message" placeholder="Comment" required></textarea>
+                            <textarea name="message" id="message" cols="30" rows="10" class="do-input-message" placeholder="Write Message" required></textarea>
 
                             <button type="submit" id="do-submit-btn" class="do-btn-round-solid">SEND</button>
                         </div>

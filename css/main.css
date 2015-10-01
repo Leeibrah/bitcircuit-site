@@ -1120,7 +1120,7 @@ PRELOADER STYLING
        -moz-border-radius: 100%;
          -o-border-radius: 100%;
             border-radius: 100%;
-    background-image: url(../images/controls/preloader-logo.png);
+    background-image: url(../images/controls/loader.png);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -1663,6 +1663,10 @@ SIDE MENU ITEMS
 /*
 LOGO
  */
+
+.logo{
+    max-height:35px;
+ }
 .do-side-menu-widget-wrap .do-side-menu-logo-wrap{
     height: 50px;
     position: absolute;

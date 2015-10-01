@@ -21,7 +21,7 @@
             <!-- LOGO -->
             <div class="do-side-menu-logo-wrap">
                 <a href="index.php">
-                    <img src="images/side-menu-logo.png" alt="DO">
+                    <img class="logo" src="images/small_logo.png" alt="BC">
                 </a>
             </div>
             <!-- LOGO -->
@@ -57,30 +57,16 @@
             <div class="do-side-menu-social-icon">
                 <ul>
                     <li>
-                        <a href="index.php#">
+                        <a href="https://facebook.com/bitcircuit" target="_blank">
                             <i class="fa fa-facebook"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="index.php#">
+                        <a href="https://twitter.com/bitcircuit" target="_blank">
                             <i class="fa fa-twitter"></i>
                         </a>
                     </li>
-                    <li>
-                        <a href="index.php#">
-                            <i class="fa fa-behance"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="index.php#">
-                            <i class="fa fa-dribbble"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="index.php#">
-                            <i class="ti-vimeo-alt"></i>
-                        </a>
-                    </li>
+  
                 </ul>
             </div>
             <!-- SOCIAL ICONS END -->

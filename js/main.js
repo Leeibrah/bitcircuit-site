@@ -591,10 +591,11 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 				proceed = false; //set do not proceed flag
 			}
 			//check invalid email
-			var email_reg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+			var email_reg = /^([\w-]+@([\w-]+\.)+[\w-]{2,4})?$/;
 			if($(this).attr("type")=="email" && !email_reg.test($.trim($(this).val()))){
 				$(this).css('border','1px solid #FC4848'); //change border color to red
 				proceed = false; //set do not proceed flag
+
 			}
 		});
 
@@ -603,15 +604,16 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 			if(!$.trim($(this).val())){ //if this field is empty
 				$(this).css({
 					"border": "0px solid",
-					"border-bottom": "2px solid #FC4848",
+					"border-bottom": "2px solid #FC4848"
 				}); //change border color to red
 				proceed = false; //set do not proceed flag
 			}
 			//check invalid email
-			var email_reg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+			var email_reg = /^([\w-]+@([\w-]+\.)+[\w-]{2,4})?$/;
 			if($(this).attr("type")=="email" && !email_reg.test($.trim($(this).val()))){
 				$(this).css('border-bottom','2px solid #FC4848'); //change border color to red
 				proceed = false; //set do not proceed flag
+
 			}
 		});
 
@@ -621,6 +623,7 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
             var post_data = {
 				'name'		: $('input[name=name]').val(),
 				'email'	: $('input[name=email]').val(),
+                'subject': $('input[name=subject]').val(),
 				'message'		: $('textarea[name=message]').val()
 			};
             var output = '';
@@ -633,7 +636,7 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 				    output = '<div class="success">'+response.text+'</div>';
 					//reset values in all input fields
 					$("#contact-form input, #contact-form textarea").val('');
-					//$("#contact-form").slideUp(); //hide form after success
+					$("#contact-form").slideUp(); //hide form after success
 				}
 				$("#contact-result").hide().html(output).slideDown();
             }, 'json');

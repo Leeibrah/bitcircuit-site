@@ -1,29 +1,36 @@
 <?php
 header('Content-type: application/json');
-//Get data posted from Contact us
+echo json_encode($response);
 
-$response = $_POST;
 
 //Do what you need to do with the info. The following are some examples.
 //if ($return["favorite_beverage"] == ""){
 //  $return["favorite_beverage"] = "Coke";
 //}
 //$return["favorite_restaurant"] = "McDonald's";
-$response['Ok'];
-$response["json"] = json_encode($response);
-echo json_encode($response);
+
+if ($_POST) {
+
+    $response['type']='success';
+    $replyToName = $_POST['name'];
+    $replyToEmail = $_POST['email'];
+
+    //Client subject typed at the system
+    $mailSubject=$_POST['subject'];
+    $mailBody = $_POST['message'];
 
 
-$senderName='Sender Name';
-$senderEmail='magige@mephatech.com';
-$replyToEmail='sasa@sasa.com';
-$replyToName='New User';
+//$senderName='Sender Name';
+//$senderName=data[''];
+$senderEmail='contact@teamsync.co';
+//$replyToEmail='sasa@sasa.com';
+//$replyToName='New User';
 
-$receiverName='Receiver Name';
+$receiverName='BitCircuit Team';
 $receiverEmail='magigedaniel@gmail.com';
 
-$mailSubject='Subject';
-$mailBody='Message body from a contact';
+
+//$mailBody='Message body from a contact';
 
 
 require 'PHPMailer/PHPMailerAutoload.php';
@@ -60,4 +67,9 @@ if(!$mail->send()) {
     echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
     echo 'Message has been sent';
+}
+
+}
+else {
+    echo "failure";
 }

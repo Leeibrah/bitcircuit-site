@@ -1,6 +1,6 @@
 <?php
 header('Content-type: application/json');
-echo json_encode($response);
+
 
 
 //Do what you need to do with the info. The following are some examples.
@@ -11,7 +11,7 @@ echo json_encode($response);
 
 if ($_POST) {
 
-    $response['type']='success';
+
     $replyToName = $_POST['name'];
     $replyToEmail = $_POST['email'];
 
@@ -66,10 +66,16 @@ if(!$mail->send()) {
     echo 'Message could not be sent.';
     echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
-    echo 'Message has been sent';
+    $response['type']='success';
+    $response['text']='Thank you for your message will get back to you!';
+    //echo 'Message has been sent';
+    echo json_encode($response);
 }
 
 }
 else {
-    echo "failure";
+    $response['type']='error';
+    $response['text']='Sorry,feel the right details and try again!';
+   // echo "failure";
+    echo json_encode($response);
 }

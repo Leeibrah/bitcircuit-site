@@ -581,7 +581,8 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 ================================================================== */
 
 	$("#do-submit-btn").on('click',function() {
-	    var proceed = true;
+        $("#contact-result").hide().html('<div class="error">Wait Sending your message...</div>').slideDown();
+        var proceed = true;
         //simple validation at client's end
         //loop through each field and we simply change border color to red for invalid fields
 		$("#contact-form input, #contact-form textarea").each(function(){

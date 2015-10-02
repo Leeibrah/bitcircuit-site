@@ -1480,7 +1480,7 @@ SIDE MENU
     text-indent: 0;
     font-size: 0;
     color: transparent;
-    background-color: transparent;
+    background-color: red;
     border-top:3px solid #e3e3e3;
 }
 

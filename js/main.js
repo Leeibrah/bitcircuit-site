@@ -581,7 +581,8 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 ================================================================== */
 
 	$("#do-submit-btn").on('click',function() {
-        $("#contact-result").hide().html('<div class="error">Wait Sending your message...</div>').slideDown();
+        $("#contact-result").hide().html('<div class="success">Wait Sending your message...</div>').slideDown();
+        $("#do-submit-btn").hide();
         var proceed = true;
         //simple validation at client's end
         //loop through each field and we simply change border color to red for invalid fields
@@ -639,10 +640,12 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 					$("#contact-form input, #contact-form textarea").val('');
 					$("#contact-form").slideUp(); //hide form after success
 				}
+                $("#do-submit-btn").show();
 				$("#contact-result").hide().html(output).slideDown();
             }, 'json');
         }else{
 			$("#contact-result").hide().html('<div class="error">All fields are Required.</div>').slideDown();
+            $("#do-submit-btn").show();
 		}
     });
 

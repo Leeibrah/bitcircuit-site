@@ -2202,7 +2202,7 @@ DROPDOWN MENU
 }
 
 .sp-previous-arrow:before {
-    content: '\e686';
+    content: '\003c';
     font-family: 'Pe-icon-7-stroke';
     font-size: 36px;
     color: #ffffff;
@@ -2211,7 +2211,7 @@ DROPDOWN MENU
 }
 
 .sp-next-arrow:before {
-    content: '\e684';
+    content: '\003e';
     font-family: 'Pe-icon-7-stroke';
     font-size: 36px;
     color: #ffffff;

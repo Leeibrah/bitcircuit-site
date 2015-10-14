@@ -142,25 +142,30 @@ require_once('menu.php');
             <!-- CUSTOM SECTION DETAILS -->
             <div class="do-about-custom-details col-md-6 col-sm-6 col-xs-12">
                 <!-- SECTION SUBHEADING -->
-                <h2 class="do-section-subheading">We love What We do</h2>
+                <h2 class="do-section-subheading">We do what we love</h2>
                 <!-- SECTION SUBHEADING END -->
+                <P>
+                    We know that value goes beyond one single endeavour, so we deliver business value to customers
+                    through a combination of process excellence, quality frameworks and service delivery innovation.
 
-                <p>We specialize in churning out superb web and mobile applications that express the missions of our
+                    Our core motivation is defining service excellence in technology-driven business solutions; our
+                    passion is providing best-in-class service delivery; our DNA is to be the best.
+                <br>We specialize in churning out superb web and mobile applications that express the missions of our
                     clients most effectively and enable the products and services to be user-friendly and remarkably
                     appealing. </p>
 
                 <ul class="do-icon-list">
-                    <li><i class="fa fa-angle-right"></i> Fresh clean design for business or personal</li>
-                    <li><i class="fa fa-angle-right"></i> Made by <span class="do-color-text">experienced</span> and
+                    <li><i class="fa fa-angle-right"></i>We create fresh clean design for business or personal</li>
+                    <!--<li><i class="fa fa-angle-right"></i> Made by <span class="do-color-text">experienced</span> and
                         care for
                         you
-                    </li>
+                    </li>-->
                     <li><i class="fa fa-angle-right"></i>We maximise efficiency without sacrificing
                         quality delivering solutions at better prices.
                     </li>
                     <li><i class="fa fa-angle-right"></i>
-                        On a deeper level, we are a collection of artists, thinkers, engineers, dreamers, project
-                        managers, ICT specialists and change agents.
+                        On a deeper level, we are a collection of visionary thinkers, engineers, dreamers, project
+                        managers and IT specialists.
                     </li>
 
                 </ul>

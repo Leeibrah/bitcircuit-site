@@ -59,7 +59,7 @@ require_once('menu.php');
                             </div>
                             <div class="do-blo-title-excerpt">
                                 <h3>
-                                    <a href="blog_single.html">LEE IBRAHIM</a>
+                                    LEE IBRAHIM
                                 </h3>
                                 <!-- <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p> -->
                             </div>
@@ -76,7 +76,7 @@ require_once('menu.php');
                             </div>
                             <div class="do-blo-title-excerpt">
                                 <h3>
-                                    <a href="blog_single.html">KAMUTO MUCHEMI</a>
+                                    KAMUTO MUCHEMI
                                 </h3>
                                 <!-- <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p> -->
                             </div>
@@ -93,7 +93,7 @@ require_once('menu.php');
                             </div>
                             <div class="do-blo-title-excerpt">
                                 <h3>
-                                    <a href="blog_single.html">MAGIGE DANIEL</a>
+                                    MAGIGE DANIEL
                                 </h3>
                                 <!-- <p>No one rejects, dislikes, or avoids pleasure those who do not know a puIse</p> -->
                             </div>

@@ -256,8 +256,6 @@ require_once('menu.php');
 
 
                     <h3><a href="index.php#">sounds good</a></h3>
-
-                    <h3><a href="">sounds good</a></h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -268,10 +266,7 @@ require_once('menu.php');
                         <i class="ti-package"></i>
                     </div>
 
-
-
                     <h3><a href="">BOX STYLE</a></h3>
-
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -281,12 +276,7 @@ require_once('menu.php');
                     <div class="do-icon-wrapper">
                         <i class="pe-7s-gleam"></i>
                     </div>
-
-
-                    <h3><a href="index.php#">SHARING</a></h3>
-
-                    <h3><a href="">SHARING</a></h3>
-
+                    <h3>SHARING</h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->
@@ -297,11 +287,7 @@ require_once('menu.php');
                         <i class="ti-infinite"></i>
                     </div>
 
-
-                    <h3><a href="index.php#">NICE LOOP</a></h3>
-
-                    <h3><a href="">NICE LOOP</a></h3>
-
+                    <h3>NICE LOOP</h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
                 </div>
                 <!-- FEATURES END -->

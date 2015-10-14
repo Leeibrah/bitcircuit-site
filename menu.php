@@ -47,10 +47,7 @@
 
                     <li>
                         <a href="contact.php">Contact</a>
-                    </li>
-                    <li>
-                        <a href="#">Career</a>
-                    </li>
+                    </li>                  
 
                 </ul>
             </div>
@@ -124,9 +121,7 @@
                     <li>
                         <a href="contact.php">Contact</a>
                     </li>
-                    <li>
-                        <a href="#">Career</a>
-                        </li>
+                
                 </ul>
             </div>
             <!-- navbar-collapse end-->

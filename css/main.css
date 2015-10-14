@@ -2994,7 +2994,6 @@ HOVER
     right: 0;
     bottom: 0;
     max-height: 100%;
-    background: url(../images/custom-img-bg-1.jpg);  /* Comment or disable this line if you use a video as bg */
     background-position: center;          /* Comment or disable this line if you use a video as bg */
     -webkit-background-size: cover;       /* Comment or disable this line if you use a video as bg */
             background-size: cover;       /* Comment or disable this line if you use a video as bg */
@@ -5494,7 +5493,6 @@ DO LIST ITEM WITH ICON
 * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 .do-homepage-third .do-client-logo-section{
     padding-bottom: 70px;
-    background: url(../images/section_img_2.jpg) no-repeat;
 }
 
 .do-homepage-third .do-logo-slider .do-logo-slides{
@@ -5720,7 +5718,6 @@ RIGHT CONTENT
 * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 .do-homepage-fourth .do-cta-section-2nd{
     padding: 190px 0;
-    background: url(../images/section_img.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;

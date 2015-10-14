@@ -53,19 +53,22 @@ require_once('menu.php');
                 <h2 class="do-section-subheading">TEAM SYNC</h2>
                 <!-- SECTION SUBHEADING END -->
 
-                <p>No one rejects, dislikes, or avoids pleasure itself, because is counter because upon those who do not
-                    know how an puIse pleasure rationally encounter consequnce is Nor again is there anyone who
-                    loves</p>
+                <p>TeamSync takes the best of email, instant messaging and social networking to create the ultimate
+                    collaborative messaging tool for your company. Has been used by various organization and their
+                    response is
+                    a clear testimony of what it is!</p>
 
                 <ul class="do-icon-list">
-                    <li><i class="fa fa-angle-right"></i> Fresh clean theme for business or personal</li>
-                    <li><i class="fa fa-angle-right"></i> Made with <span class="do-color-text">love</span> and care for
-                        you
+                    <li><i class="fa fa-angle-right"></i>
+                        Organized conversation
                     </li>
-                    <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
+                    <li><i class="fa fa-angle-right"></i> Team directory
+                    </li>
+                    <li><i class="fa fa-angle-right"></i> Mass communication and much more</li>
                 </ul>
 
-                <p>For more information <a href="contact.php" class="do-btn-round-solid">Contact</a> our team</p>
+                <p>For more information visit <a href="http://teamsync.co" target="_blank" class="do-btn-round-solid">Teamsync</a>
+                </p>
             </div>
             <!-- CUSTOM SECTION DETAILS END -->
         </div>
@@ -90,16 +93,22 @@ require_once('menu.php');
                 <h2 class="do-section-subheading">e-Campus</h2>
                 <!-- SECTION SUBHEADING END -->
 
-                <p>No one rejects, dislikes, or avoids pleasure itself, because is counter because upon those who do not
-                    know how an puIse pleasure rationally encounter consequnce is Nor again is there anyone who
-                    loves</p>
+                <p>eCampus gateway to online education programs offered and ensure institutional synchronization. It
+                    collaborate
+                    effectively non teaching staffs, teaching staff, administration and students. Has powerful
+                    features that define the ranks and permission for all concern parties that is not limited to
+                    Facaulty, departments, campus and courses</p>
 
                 <ul class="do-icon-list">
-                    <li><i class="fa fa-angle-right"></i> Fresh clean theme for business or personal</li>
-                    <li><i class="fa fa-angle-right"></i> Made with <span class="do-color-text">love</span> and care for
-                        you
+                    <li><i class="fa fa-angle-right"></i> Create a space for student to have a discussion remotely under
+                        suppervison of their tutor
                     </li>
-                    <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
+                    <li><i class="fa fa-angle-right"></i> Share of campus notes, Tutor assign class assignment or an
+                        individual assignment effectively and student best method of communication
+                    </li>
+                    <li><i class="fa fa-angle-right"></i> Administrative monitor of both student and lecturer
+                        interration easily
+                    </li>
                 </ul>
 
                 <p>For more information <a href="contact.php" class="do-btn-round-solid">Contact</a> our team</p>
@@ -200,19 +209,18 @@ require_once('menu.php');
                 <h2 class="do-section-subheading">KENYA LEO</h2>
                 <!-- SECTION SUBHEADING END -->
 
-                <p>No one rejects, dislikes, or avoids pleasure itself, because is counter because upon those who do not
-                    know how an puIse pleasure rationally encounter consequnce is Nor again is there anyone who
-                    loves</p>
+                <p>Is an online portal that offer all kenyan news. It shows major TVs in Kenya, Radio and all kenyan newspaper
+                    online including entertainment blogs</p>
 
                 <ul class="do-icon-list">
-                    <li><i class="fa fa-angle-right"></i> Fresh clean theme for business or personal</li>
-                    <li><i class="fa fa-angle-right"></i> Made with <span class="do-color-text">love</span> and care for
-                        you
+                    <li><i class="fa fa-angle-right"></i> Easy to read top stories from different sources</li>
+                    <li><i class="fa fa-angle-right"></i> Watch favorite Kenyan TV online and listen to radio
                     </li>
-                    <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
+                    <li><i class="fa fa-angle-right"></i> Find Kenyan job from various advertiser</li>
                 </ul>
 
-                <p>For more information <a href="contact.php" class="do-btn-round-solid">Contact</a> our team</p>
+                <p>For more information visit <a href="http://kenyaleo.co.ke" target="_blank"
+                                                 class="do-btn-round-solid">Kenyaleo</a></p>
             </div>
             <!-- CUSTOM SECTION DETAILS END -->
         </div>

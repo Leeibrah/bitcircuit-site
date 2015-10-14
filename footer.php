@@ -104,7 +104,7 @@
 
             <!-- FOOTER BOTTOM -->
             <div class="do-footer-bottom">
-                <a href="http://bitcircuit.co" class="do-footer-author-name"><?php echo date("Y") ?> &copy; BitCircuit</a>
+                <a href="#" class="do-footer-author-name"><?php echo date("Y") ?> &copy; BitCircuit</a>
             </div>
             <!-- FOOTER BOTTOM END -->
         </div>
@@ -130,11 +130,3 @@
 
 <!-- CUSTOM SCRIPTS -->
 <script src="js/main.js"></script>
-
-<script>
-    $(".nav li").on("click", function() {
-        $(".nav li").removeClass("active");
-        $(this).addClass("active");
-    });
-
-</script>

@@ -65,8 +65,6 @@ require_once('menu.php');
 
                         <textarea name="message" id="message" cols="30" rows="10" class="do-input-message"
                                   placeholder="Write Message" required></textarea>
-
-                        <div id="submit-result"></div>
                         <button type="submit" id="do-submit-btn" class="do-btn-round-solid">SEND</button>
 
                     </div>

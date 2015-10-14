@@ -164,7 +164,6 @@ require_once('menu.php');
                  data-wow-delay=".4s">
                 <img src="images/custom-img-2.png" alt="">
             </div>
-            <!-- CUSTOM SECTION IMG END -->
 
             <!-- CUSTOM SECTION DETAILS -->
             <div class="do-about-custom-details col-md-6 col-sm-6 col-xs-12">
@@ -172,16 +171,17 @@ require_once('menu.php');
                 <h2 class="do-section-subheading">e-corporate</h2>
                 <!-- SECTION SUBHEADING END -->
 
-                <p>No one rejects, dislikes, or avoids pleasure itself, because is counter because upon those who do not
-                    know how an puIse pleasure rationally encounter consequnce is Nor again is there anyone who
-                    loves</p>
+                <p>e-coporate was developed after a deep research on how corporate works and collaborates within the
+                    organizational hierarchy. It include all function of corporate world; Board, Managerial,
+                    departments, employees and business partner.</p>
 
                 <ul class="do-icon-list">
-                    <li><i class="fa fa-angle-right"></i> Fresh clean theme for business or personal</li>
-                    <li><i class="fa fa-angle-right"></i> Made with <span class="do-color-text">love</span> and care for
-                        you
+                    <li><i class="fa fa-angle-right"></i> Easy task allocation and follow up</li>
+                    <li><i class="fa fa-angle-right"></i>Staff Communication within the organization
                     </li>
-                    <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
+                    <li><i class="fa fa-angle-right"></i> Internal staff events, meeting and delegation of other duties
+                        is well represented
+                    </li>
                 </ul>
 
                 <p>For more information <a href="contact.php" class="do-btn-round-solid">Contact</a> our team</p>
@@ -209,7 +209,8 @@ require_once('menu.php');
                 <h2 class="do-section-subheading">KENYA LEO</h2>
                 <!-- SECTION SUBHEADING END -->
 
-                <p>Is an online portal that offer all kenyan news. It shows major TVs in Kenya, Radio and all kenyan newspaper
+                <p>Is an online portal that offer all kenyan news. It shows major TVs in Kenya, Radio and all kenyan
+                    newspaper
                     online including entertainment blogs</p>
 
                 <ul class="do-icon-list">

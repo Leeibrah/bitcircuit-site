@@ -73,6 +73,7 @@ require_once('menu.php');
                         that is a web portal that has made it easy for a number of organization to run their operation
                         effectively
                     </p>
+
                     <p>
                         We are also offering the best IT solution in the current competitive market
                     </p>
@@ -81,15 +82,6 @@ require_once('menu.php');
 
                 <!-- SKILLBAR -->
                 <div class="col-md-4 col-sm-4 col-xs-12 do-our-skill">
-
-                    <!-- Design Skill Bar -->
-                    <div class="do-skillbar clearfix" data-percent="70">
-                        <p class="do-skillbar-title">Design<span class="skill-bar-percent"></span></p>
-
-                        <div class="do-skillbar-bar-wrapper">
-                            <div class="do-skillbar-bar"></div>
-                        </div>
-                    </div>
                     <!-- Web Skill Bar End -->
                     <div class="do-skillbar clearfix" data-percent="80">
                         <p class="do-skillbar-title">Web Technology<span class="skill-bar-percent"></span></p>
@@ -153,19 +145,27 @@ require_once('menu.php');
                 <h2 class="do-section-subheading">We love What We do</h2>
                 <!-- SECTION SUBHEADING END -->
 
-                <p>No one rejects, dislikes, or avoids pleasure itself, because is counter because upon those who do not
-                    know how an puIse pleasure rationally encounter consequnce is Nor again is there anyone who
-                    loves</p>
+                <p>We specialize in churning out superb web and mobile applications that express the missions of our
+                    clients most effectively and enable the products and services to be user-friendly and remarkably
+                    appealing. </p>
 
                 <ul class="do-icon-list">
-                    <li><i class="fa fa-angle-right"></i> Fresh clean theme for business or personal</li>
-                    <li><i class="fa fa-angle-right"></i> Made with <span class="do-color-text">love</span> and care for
+                    <li><i class="fa fa-angle-right"></i> Fresh clean design for business or personal</li>
+                    <li><i class="fa fa-angle-right"></i> Made by <span class="do-color-text">experienced</span> and
+                        care for
                         you
                     </li>
-                    <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
+                    <li><i class="fa fa-angle-right"></i>We maximise efficiency without sacrificing
+                        quality delivering solutions at better prices.
+                    </li>
+                    <li><i class="fa fa-angle-right"></i>
+                        On a deeper level, we are a collection of artists, thinkers, engineers, dreamers, project
+                        managers, ICT specialists and change agents.
+                    </li>
+
                 </ul>
 
-                <a href="about_us.html#" class="do-btn-round-solid">more</a>
+                <!--<a href="about_us.html#" class="do-btn-round-solid">more</a>-->
             </div>
             <!-- CUSTOM SECTION DETAILS END -->
         </div>

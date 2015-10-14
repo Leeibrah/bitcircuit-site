@@ -3243,7 +3243,6 @@ LEFT SIDE
 RIGHT SIDE
  */
 .do-custom-halfwidthimg-section .do-rightside-halfwidth-img{
-    background: url(../images/custom-sec-bg-img.jpg) no-repeat;
     -webkit-background-size: cover;
             background-size: cover;
 }

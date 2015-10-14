@@ -34,7 +34,7 @@ require_once('menu.php');
 
 
     <!--================================
-        CUSTOM SECTION 
+        CUSTOM SECTION  Teamsync solutions
     =================================-->
     <section class="do-about-custom-section">
         <div class="container">
@@ -67,6 +67,67 @@ require_once('menu.php');
     </section>
     <!-- CUSTOM SECTION END -->
 
+<!-- Ecampus-->
+<section class="do-about-custom-section">
+    <div class="container">
+        <div class="row">
+            <!-- CUSTOM SECTION IMG -->
+            <div class="do-about-custom-img col-md-6 col-sm-6 col-xs-12 appear fadeInUp" data-wow-duration="1.5s" data-wow-delay=".4s">
+                <img src="images/custom-img-2.png" alt="">
+            </div>
+            <!-- CUSTOM SECTION IMG END -->
+
+            <!-- CUSTOM SECTION DETAILS -->
+            <div class="do-about-custom-details col-md-6 col-sm-6 col-xs-12">
+                <!-- SECTION SUBHEADING -->
+                <h2 class="do-section-subheading">e-Campus</h2>
+                <!-- SECTION SUBHEADING END -->
+
+                <p>No one rejects, dislikes, or avoids pleasure itself, because is counter because upon those who do not know how an puIse pleasure rationally encounter consequnce is Nor again is there anyone who loves</p>
+
+                <ul class="do-icon-list">
+                    <li><i class="fa fa-angle-right"></i> Fresh clean theme for business or personal</li>
+                    <li><i class="fa fa-angle-right"></i> Made with <span class="do-color-text">love</span> and care for you</li>
+                    <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
+                </ul>
+
+                <a href="about_us.html#" class="do-btn-round-solid">more</a>
+            </div>
+            <!-- CUSTOM SECTION DETAILS END -->
+        </div>
+    </div>
+</section>
+
+<!-- E-county section-->
+<section class="do-about-custom-section">
+    <div class="container">
+        <div class="row">
+            <!-- CUSTOM SECTION IMG -->
+            <div class="do-about-custom-img col-md-6 col-sm-6 col-xs-12 appear fadeInUp" data-wow-duration="1.5s" data-wow-delay=".4s">
+                <img src="images/custom-img-2.png" alt="">
+            </div>
+            <!-- CUSTOM SECTION IMG END -->
+
+            <!-- CUSTOM SECTION DETAILS -->
+            <div class="do-about-custom-details col-md-6 col-sm-6 col-xs-12">
+                <!-- SECTION SUBHEADING -->
+                <h2 class="do-section-subheading">e-County</h2>
+                <!-- SECTION SUBHEADING END -->
+
+                <p>No one rejects, dislikes, or avoids pleasure itself, because is counter because upon those who do not know how an puIse pleasure rationally encounter consequnce is Nor again is there anyone who loves</p>
+
+                <ul class="do-icon-list">
+                    <li><i class="fa fa-angle-right"></i> Fresh clean theme for business or personal</li>
+                    <li><i class="fa fa-angle-right"></i> Made with <span class="do-color-text">love</span> and care for you</li>
+                    <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
+                </ul>
+
+                <a href="about_us.html#" class="do-btn-round-solid">more</a>
+            </div>
+            <!-- CUSTOM SECTION DETAILS END -->
+        </div>
+    </div>
+</section>
     <!--================================
         CUSTOM SECTION 
     =================================-->

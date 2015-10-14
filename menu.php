@@ -126,7 +126,7 @@
                     </li>
                     <li>
                         <a href="#">Career</a>
-                        </l
+                        </li>
                 </ul>
             </div>
             <!-- navbar-collapse end-->

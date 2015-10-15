@@ -1047,6 +1047,11 @@ BREADCUMB
     background-color: #005cff;
 }
 
+/* youtube */
+.do-social-link-section a.do-youtube:hover{
+    background-color: #CC181E;
+}
+
 /********************************
             ERROR
 ********************************/

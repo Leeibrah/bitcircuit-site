@@ -54,7 +54,7 @@ require_once('menu.php');
                     <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
                         <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; -webkit-animation-duration: 1s; -webkit-animation-delay: 0.2s;">
                             <div class="do-blog-img-wrapper">
-                                <img src="images/team-3.jpg" alt="ENDLESS ROAD STARTS">
+                                <img src="images/ibrah.png" alt="ENDLESS ROAD STARTS">
 
                             </div>
                             <div class="do-blo-title-excerpt">
@@ -71,7 +71,7 @@ require_once('menu.php');
                     <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
                         <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; -webkit-animation-duration: 1s; -webkit-animation-delay: 0.6s;">
                             <div class="do-blog-img-wrapper">
-                                <img src="images/team-3.jpg" alt="ENDLESS ROAD STARTS">
+                                <img src="images/muchemi.png" alt="ENDLESS ROAD STARTS">
 
                             </div>
                             <div class="do-blo-title-excerpt">
@@ -88,7 +88,7 @@ require_once('menu.php');
                     <div class="do-blog-masonry-items col-md-4 col-sm-4 col-xs-12">
                         <div class="do-blog-item-wrapper appear fadeInUp" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; -webkit-animation-duration: 1s; -webkit-animation-delay: 1s;">
                             <div class="do-blog-img-wrapper">
-                                <img src="images/team-3.jpg" alt="ENDLESS ROAD STARTS">
+                                <img src="images/daniel.png" alt="ENDLESS ROAD STARTS">
 
                             </div>
                             <div class="do-blo-title-excerpt">

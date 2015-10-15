@@ -29,7 +29,7 @@
                 dribble
             </a>
 
-            <a href="https://www.youtube.com" class="do-behance">
+            <a href="https://www.youtube.com" class="do-youtube">
                     <span>
                         <i class="fa fa-youtube"></i>
                     </span>

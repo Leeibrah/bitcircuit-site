@@ -138,11 +138,11 @@ require_once('menu.php');
                     <img src="images/slider_image/books-2.png" alt="">
                 </div>
 
-                <div class="sp-layer do-slider-img do-women-img" data-position="bottomCenter" data-vertical="23"
+                <!--<div class="sp-layer do-slider-img do-women-img" data-position="bottomCenter" data-vertical="23"
                      data-show-delay="5000" data-hide-delay="200" data-show-transition="up" data-hide-transition="down"
                      data-width="28%">
                     <img src="images/slider_image/woman.png" alt="">
-                </div>
+                </div> -->
 
                 <h1 class="sp-layer do-slider-text-big do-slider-2nd-text"
                     data-position="topCenter" data-vertical="100" data-horizontal="0" data-show-transition="down"
@@ -355,7 +355,7 @@ END TESTIMONIAL SECTION
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12 do-custom-sec-img appear fadeIn" data-wow-duration="1.5s"
                  data-wow-delay=".4s">
-                <img src="images/macbook-img.png" alt="">
+                <img src="images/tabtouch.png" alt="">
             </div>
 
             <div class="col-md-6 col-sm-6 col-xs-12 do-custom-sec-content">

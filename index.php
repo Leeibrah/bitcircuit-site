@@ -455,11 +455,8 @@ END TESTIMONIAL SECTION
 
             <div class="col-md-6 col-sm-6 col-xs-12 do-custom-sec-content">
                 <h3>EXTRA FEATURE</h3>
-
                 <p>Bitcircuit helps brands use the internet to engage prospects, customers, leads and advocates. We
-
                     have a passion for technology. We build websites, mobile apps, web applications, SaaS products,
-
                     and web technology. Great technology should feel simple.</p>
                 <ul class="do-icon-list">
                     <li><i class="fa fa-angle-right"></i> Websites</li>
@@ -469,11 +466,7 @@ END TESTIMONIAL SECTION
 
                     <li><i class="fa fa-angle-right"></i> MarTech: Marketing technology</li>
                     <li><i class="fa fa-angle-right"></i> Support</li>
-
-
                 </ul>
-
-
                 <a href="solution.php" class="do-btn-round-solid">MORE</a>
 
             </div>

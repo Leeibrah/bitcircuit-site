@@ -484,7 +484,6 @@ END TESTIMONIAL SECTION
    END CUSTOM SECTION  WITH IMAGE LEFT
 =====-->
 
-
 <?php
 require_once('footer.php');
 ?>

@@ -2208,11 +2208,11 @@ DROPDOWN MENU
     color: #ffffff;
     line-height: 100px;
     z-index: 1;
-    background: url(../images/controls/top.png) no-repeat;
+    background: url(../images/controls/left.png) no-repeat;
 }
 
 .sp-next-arrow:before {
-    content: '\003e';
+    background: url(../images/controls/right.png) no-repeat;;
     font-family: 'Pe-icon-7-stroke';
     font-size: 36px;
     color: #ffffff;

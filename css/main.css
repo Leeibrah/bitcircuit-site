@@ -2202,12 +2202,13 @@ DROPDOWN MENU
 }
 
 .sp-previous-arrow:before {
-    content: '\003c';
+
     font-family: 'Pe-icon-7-stroke';
     font-size: 36px;
     color: #ffffff;
     line-height: 100px;
     z-index: 1;
+    background: url(../images/controls/top.png) no-repeat;
 }
 
 .sp-next-arrow:before {

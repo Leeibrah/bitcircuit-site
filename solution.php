@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<title>BitCircuit : ABOUT</title>
+<title>BitCircuit : SOLUTIONS</title>
 <?php
 require_once('header.php');
 ?>
@@ -135,19 +135,25 @@ require_once('menu.php');
                 <h2 class="do-section-subheading">e-County</h2>
                 <!-- SECTION SUBHEADING END -->
 
-                <p>No one rejects, dislikes, or avoids pleasure itself, because is counter because upon those who do not
-                    know how an puIse pleasure rationally encounter consequnce is Nor again is there anyone who
-                    loves</p>
+                <p>Following the promulgation of the new Constitution of Kenya, which created 47 counties in 2010. The
+                    counties needed a system that collaborate staffs, Member of county assembly(MCA), governor and
+                    voters to
+                    ensure an effective flow of information and utilization of county resources.
+                    The e-county web portal is the best solution in the market. </p>
 
                 <ul class="do-icon-list">
-                    <li><i class="fa fa-angle-right"></i> Fresh clean theme for business or personal</li>
-                    <li><i class="fa fa-angle-right"></i> Made with <span class="do-color-text">love</span> and care for
-                        you
+                    <li><i class="fa fa-angle-right"></i> Governor is able to monitor and supervise execution of tasks
+                        within the county
                     </li>
-                    <li><i class="fa fa-angle-right"></i> Pixel perfect coding done</li>
+                    <li><i class="fa fa-angle-right"></i> Easy communication among different committees of MCA as well
+                        as county staffs
+                    </li>
+                    <li><i class="fa fa-angle-right"></i> Ensure secure management of county resources within the rank
+                        lead by governor
+                    </li>
                 </ul>
 
-                <p>For more information <a href="" class="do-btn-round-solid">Contact</a> our team</p>
+                <p>For more information <a href="contact.php" class="do-btn-round-solid">Contact</a> our team</p>
             </div>
             <!-- CUSTOM SECTION DETAILS END -->
         </div>

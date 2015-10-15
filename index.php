@@ -161,130 +161,6 @@ require_once('menu.php');
 </section>
 <!-- do Main Slider End -->
 
-<!--====
-    SERVICES SECTION
-=====-->
-<section class="do-sevice-section" id="do-sevice-section">
-    <div class="container">
-        <div class="row">
-
-            <!-- DESIGN -->
-            <div class="do-service-container">
-                <div class="do-service-container-inner">
-                    <div class="do-front-part">
-                        <div class="do-front-content">
-                            <i class="icon-trophy"></i>
-
-                            <h3>DESIGN</h3>
-                        </div>
-                    </div>
-
-                    <div class="do-back-part">
-                        <div class="do-back-content">
-                            <h3>DESIGN</h3>
-
-                            <p> The first step to growing a brand online is to drive qualified leads to your website or
-                                mobile app. Having a user­friendly experience is an important part of any successful
-                                business
-                                strategy, but generating relevant traffic is essential to having a strong conversion
-                                rate.We take time
-                                to design your website, mobile app or content for the best results</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- PRODUCTS -->
-            <div class="do-service-container">
-                <div class="do-service-container-inner">
-                    <div class="do-front-part">
-                        <div class="do-front-content">
-                            <i class="icon-anchor"></i>
-
-                            <h3>DEVELOPMENTS</h3>
-                        </div>
-                    </div>
-
-                    <div class="do-back-part">
-                        <div class="do-back-content">
-                            <h3>DEVELOPMENT</h3>
-
-                            <p>Bitcircuit helps brands use the internet to engage prospects, customers, leads and
-                                advocates. We
-
-                                have a passion for technology. We build websites, mobile apps, web applications, SaaS
-                                products,
-
-                                and web technology. Great technology should feel simple.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- AWARDS -->
-            <div class="do-service-container">
-                <div class="do-service-container-inner">
-                    <div class="do-front-part">
-                        <div class="do-front-content">
-                            <i class="icon-shield"></i>
-
-                            <h3>MARKETING</h3>
-                        </div>
-                    </div>
-
-                    <div class="do-back-part">
-                        <div class="do-back-content">
-                            <h3>MARKETING</h3>
-
-                            <p> We work closely with clients to set goals, produce campaigns, support internal teams and
-                                execute
-
-                                multichannel strategy. Launching a website, from our perspective, is not a pinnacle
-
-                                achievement.We manage all stages of the marketing process: the strategy phase, the
-                                launch
-
-                                phase, the go­to­market phase and the growth phase ­­ hence Bitcircuit's signature
-                                model:
-
-                                Strategize / Launch / Market / Grow.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- PARTNERS -->
-            <div class="do-service-container">
-                <div class="do-service-container-inner">
-                    <div class="do-front-part">
-                        <div class="do-front-content">
-                            <i class="fa fa-users"></i>
-
-                            <h3>STRATEGY & EXECUTION</h3>
-                        </div>
-                    </div>
-
-                    <div class="do-back-part">
-                        <div class="do-back-content">
-                            <h3>STRATEGY & EXECUTION</h3>
-
-                            <p> We audit the digital capabilities of a brand and create an action plan that helps
-                                guide the growth and success of our clients.Our experience has revealed that complete
-                                digital strategy comes only when designers,
-                                engineers and marketing strategists work together. Ironpaper is special because we push
-                                the
-                                boundaries of this tight integration between design, technology and marketing­­setting
-                                our clients
-                                apart in the market place.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!-- SERVICES SECTION END -->
 
 <!--====
     CUSTOM SECTION
@@ -351,9 +227,14 @@ require_once('menu.php');
                 </div>
 
 
-                <h3><a href="index.php#">sounds good</a></h3>
+                <h3><a href="index.php#">DESIGN</a></h3>
 
-                <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
+                <p> The first step to growing a brand online is to drive qualified leads to your website or
+                                mobile app. Having a user­friendly experience is an important part of any successful
+                                business
+                                strategy, but generating relevant traffic is essential to having a strong conversion
+                                rate.We take time
+                                to design your website, mobile app or content for the best results</p>
             </div>
             <!-- FEATURES END -->
 
@@ -361,12 +242,18 @@ require_once('menu.php');
             <div class="do-icon-with-text-style1 col-md-3 col-sm-3 col-xs-12 appear fadeIn" data-wow-duration="1s"
                  data-wow-delay=".5s">
                 <div class="do-icon-wrapper">
-                    <i class="ti-package"></i>
+                    <i class="icon-anchor"></i>
                 </div>
 
-                <h3><a href="">BOX STYLE</a></h3>
+                <h3><a href="">DEVELOPMENT</a></h3>
 
-                <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
+                <p>Bitcircuit helps brands use the internet to engage prospects, customers, leads and
+                                advocates. We
+
+                                have a passion for technology. We build websites, mobile apps, web applications, SaaS
+                                products,
+
+                                and web technology. Great technology should feel simple.</p>
             </div>
             <!-- FEATURES END -->
 
@@ -374,11 +261,22 @@ require_once('menu.php');
             <div class="do-icon-with-text-style1 col-md-3 col-sm-3 col-xs-12 appear fadeIn" data-wow-duration="1s"
                  data-wow-delay=".7s">
                 <div class="do-icon-wrapper">
-                    <i class="pe-7s-gleam"></i>
+                    <i class="icon-trophy"></i>
                 </div>
-                <h3>SHARING</h3>
+                <h3>MARKETING</h3>
 
-                <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
+                <p> We work closely with clients to set goals, produce campaigns, support internal teams and
+                                execute
+
+                                multichannel strategy. Launching a website, from our perspective, is not a pinnacle
+
+                                achievement.We manage all stages of the marketing process: the strategy phase, the
+                                launch
+
+                                phase, the go­to­market phase and the growth phase ­­ hence Bitcircuit's signature
+                                model:
+
+                                Strategize / Launch / Market / Grow.</p>
             </div>
             <!-- FEATURES END -->
 
@@ -386,12 +284,19 @@ require_once('menu.php');
             <div class="do-icon-with-text-style1 col-md-3 col-sm-3 col-xs-12 appear fadeIn" data-wow-duration="1s"
                  data-wow-delay=".9s">
                 <div class="do-icon-wrapper">
-                    <i class="ti-infinite"></i>
+                    <i class="icon-shield"></i>
                 </div>
 
-                <h3>NICE LOOP</h3>
+                <h3>STRATEGY AND EXECUTION.</h3>
 
-                <p>On the other hand, we denounce with right ous indignation and dislike mens who are so beguiled</p>
+                <p> We audit the digital capabilities of a brand and create an action plan that helps
+                                guide the growth and success of our clients.Our experience has revealed that complete
+                                digital strategy comes only when designers,
+                                engineers and marketing strategists work together. Ironpaper is special because we push
+                                the
+                                boundaries of this tight integration between design, technology and marketing­­setting
+                                our clients
+                                apart in the market place.</p>
             </div>
             <!-- FEATURES END -->
         </div>

@@ -1,35 +1,35 @@
 <section class="do-social-link-section">
     <div class="container">
         <div class="row">
-            <a href="" class="do-facebook">
+            <a href="https://www.facebook.com/bitcircuit" class="do-facebook">
                     <span>
                         <i class="fa fa-facebook"></i>
                     </span>
                 FACEBOOK
             </a>
 
-            <a href="" class="do-twitter">
+            <a href="https://www.twitter.com/bitcircuit" class="do-twitter">
                     <span>
                         <i class="fa fa-twitter"></i>
                     </span>
                 TWITTER
             </a>
 
-            <a href="" class="do-vimeo">
+            <a href="https://www.vimeo.com" class="do-vimeo">
                     <span>
                         <i class="fa fa-vimeo-square"></i>
                     </span>
                 vImeo
             </a>
 
-            <a href="" class="do-dribbble">
+            <a href="https://www.dribbble.com" class="do-dribbble">
                     <span>
                         <i class="fa fa-dribbble"></i>
                     </span>
                 dribble
             </a>
 
-            <a href="" class="do-behance">
+            <a href="https://www.youtube.com" class="do-behance">
                     <span>
                         <i class="fa fa-youtube"></i>
                     </span>

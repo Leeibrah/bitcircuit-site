@@ -168,7 +168,7 @@ require_once('menu.php');
             <!-- CUSTOM SECTION IMG -->
             <div class="do-about-custom-img col-md-6 col-sm-6 col-xs-12 appear fadeInUp" data-wow-duration="1.5s"
                  data-wow-delay=".4s">
-                <img src="images/custom-img-2.png" alt="">
+                <img src="images/ecorporate_img.png" alt="">
             </div>
 
             <!-- CUSTOM SECTION DETAILS -->
